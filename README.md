@@ -1,8 +1,8 @@
 # sensing_with_computing
-## draft
-|Group|Paper|Title|Comment|
-|---|---|---|---|
-|Yang Chai||||
+## Categorize by research group
+|Group|Journal\/Conference|Year|Paper|Comment||
+|---|---|---|---|---|
+|Yang Chai|||||
 
 |Group|Paper|Title|Comment|
 |---|---|---|---|
