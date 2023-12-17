@@ -1,6 +1,6 @@
 # sensing_with_computing
 ## Categorize by research group
-|Group|Journal\/Conference|Year|Paper|Comment||
+|Group|Journal/Conference|Year|Paper|Comment|
 |---|---|---|---|---|
 |Yang Chai|||||
 
