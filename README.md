@@ -1,8 +1,9 @@
 # sensing_with_computing
 ## Categorize by research group
-|Group|Journal/Conference|Year|Paper|Comment|
-|---|---|---|---|---|
-|Yang Chai|||||
+Yang Chai
+|Authors|Title|Publicaion|Comment|
+|---|---|---|---|
+|Zhou, F., Chai, Y. <br>Near-sensor and in-sensor computing.||||
 
 |Group|Paper|Title|Comment|
 |---|---|---|---|
@@ -48,4 +49,7 @@
 |||||
 |||||
 
-
+## Ungrouped
+|Journal/Conference|Year|Paper|Comment|
+|---|---|---|---|
+|||||
