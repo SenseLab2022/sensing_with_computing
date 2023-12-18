@@ -1,6 +1,6 @@
 # sensing_with_computing
 ## Categorize by research group
-Yang Chai
+Yang Chai, The Hong Kong Polytechnic University
 |Paper|Comment|
 |:---|:---|
 |Zhou, F., Chai, Y.<br>[Near-sensor and in-sensor computing](https://doi.org/10.1038/s41928-020-00501-9).<br>Nat Electron 3, 664–671 (2020).||
