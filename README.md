@@ -9,7 +9,7 @@ Yang Chai, The Hong Kong Polytechnic University
 |T. Wan, B. Shao, S. Ma, Y. Zhou, Q. Li, Y. Chai.<br>[In-Sensor Computing: Materials, Devices, and Integration Technologies](https://doi.org/10.1002/adma.202203830).<br>Adv. Mater. 2023, 35, 2203830.[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202203830?saml_referrer)||
 
 
-Tobi Delbruck, ETH Zurich
+Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 |Paper|Comment|
 |:---|:---|
 |A. Rios-Navarro et al.<br>[Within-Camera Multilayer Perceptron DVS Denoising](https://arxiv.org/abs/2304.07543).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3933-3942.[PDF](https://arxiv.org/pdf/2304.07543.pdf)||
@@ -23,16 +23,17 @@ Tobi Delbruck, ETH Zurich
 |S. Guo and T. Delbruck.<br>[Low Cost and Latency Event Camera Background Activity Denoising](https://ieeexplore.ieee.org/abstract/document/9720086).<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 1, pp. 785-795, 1 Jan. 2023.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720086)||
 |C. Gao, A. Rios-Navarro, X. Chen, S. -C. Liu and T. Delbruck.<br>[EdgeDRNN: Recurrent Neural Network Accelerator for Edge Inference](https://ieeexplore.ieee.org/abstract/document/9268992).<br>IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 10, no. 4, pp. 419-432, Dec. 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268992)||
 |M. Liu and T. Delbruck.<br>[EDFLOW: Event Driven Optical Flow Camera With Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/abstract/document/9727106).<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 9, pp. 5776-5789, Sept. 2022.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9727106)||
+|C. Brandli, R. Berner, M. Yang, S. -C. Liu and T. Delbruck.<br>[A 240 × 180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://ieeexplore.ieee.org/abstract/document/6889103).<br>EEE Journal of Solid-State Circuits, vol. 49, no. 10, pp. 2333-2341, Oct. 2014.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6889103)||
+|M. Yang, S. -C. Liu and T. Delbruck.<br>[A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding](https://ieeexplore.ieee.org/abstract/document/7128412).<br>IEEE Journal of Solid-State Circuits, vol. 50, no. 9, pp. 2149-2160, Sept. 2015.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7128412)||
+|S. -C. Liu, B. Rueckauer, E. Ceolini.<br>[Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms](https://ieeexplore.ieee.org/abstract/document/8887562).<br>EEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, Nov. 2019.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
+|H. Liu, D. P. Moeys, G. Das, D. Neil, S. -C. Liu and T. Delbrück.<br>[Combined frame- and event-based detection and tracking](https://ieeexplore.ieee.org/abstract/document/7539103).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539103)||
+|D. Neil and S. -C. Liu.<br>[Effective sensor fusion with event-based sensors and deep network architectures](https://ieeexplore.ieee.org/abstract/document/7539039).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2282-2285.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
 
-Shih-Chii Liu
-|Paper|Comment|
-|:---|:---|
-|.<br>[]().<br>||
 
 Boris Murmann
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>||
+|.<br>[]().<br>[PDF]()||
 
 Piotr Dudek
 |Paper|Comment|
