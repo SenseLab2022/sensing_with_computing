@@ -98,7 +98,7 @@ Fei Qiao, Tsinghua University
 | Z. Liu et al..<br>[NS-CIM: A Current-Mode Computation-in-Memory Architecture Enabling Near-Sensor Processing for Intelligent IoT Vision Nodes](https://ieeexplore.ieee.org/document/9061142).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 9, pp. 2909-2922, Sept. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9061142)||
 | Z. Chen et al..<br>[Processing Near Sensor Architecture in Mixed-Signal Domain With CMOS Image Sensor of Convolutional-Kernel-Readout Method](https://ieeexplore.ieee.org/document/8835152).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 2, pp. 389-400, Feb. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835152)||
 
- 
+
 Xuan Zhang, Northeastern University
 |Paper|Comment|
 |:---|:---|
