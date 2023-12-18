@@ -12,7 +12,7 @@ Yang Chai, The Hong Kong Polytechnic University
 Tobi Delbruck, ETH Zurich
 |Paper|Comment|
 |:---|:---|
-|A. Rios-Navarro et al.<br>[Within-Camera Multilayer Perceptron DVS Denoising](doi: 10.1109/CVPRW59228.2023.00409.).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3933-3942||
+|A. Rios-Navarro et al.<br>[Within-Camera Multilayer Perceptron DVS Denoising](10.1109/CVPRW59228.2023.00409).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3933-3942||
 
 Shih-Chii Liu
 |Paper|Comment|
