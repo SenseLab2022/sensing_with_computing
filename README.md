@@ -20,9 +20,9 @@ Tobi Delbruck, ETH Zurich
 |G. Haessig, D. Joubert, J. Haque, M. B. Milde, T. Delbruck and V. Gruev.<br>[PDAVIS: Bio-inspired Polarization Event Camera](https://ieeexplore.ieee.org/document/10209002).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3963-3972.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10209002)||
 |H. Mei, Z. Wang, X. Yang, X. Wei and T. Delbruck.<br>[Deep Polarization Reconstruction with PDAVIS Events](https://ieeexplore.ieee.org/document/10203401).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, BC, Canada, 2023 pp. 22149-22158.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10203401)||
 |S. -C. Liu, C. Gao, K. Kim and T. Delbruck.<br>[Energy-efficient activity-driven computing architectures for edge intelligence](https://ieeexplore.ieee.org/document/10019443).<br>2022 International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2022, pp. 21.2.1-21.2.4.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10019443)||
-|.<br>[]().<br>||
-|.<br>[]().<br>||
-
+|S. Guo and T. Delbruck.<br>[Low Cost and Latency Event Camera Background Activity Denoising](https://ieeexplore.ieee.org/abstract/document/9720086).<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 1, pp. 785-795, 1 Jan. 2023.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720086)||
+|C. Gao, A. Rios-Navarro, X. Chen, S. -C. Liu and T. Delbruck.<br>[EdgeDRNN: Recurrent Neural Network Accelerator for Edge Inference](https://ieeexplore.ieee.org/abstract/document/9268992).<br>IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 10, no. 4, pp. 419-432, Dec. 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268992)||
+|M. Liu and T. Delbruck.<br>[EDFLOW: Event Driven Optical Flow Camera With Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/abstract/document/9727106).<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 9, pp. 5776-5789, Sept. 2022.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9727106)||
 
 Shih-Chii Liu
 |Paper|Comment|
