@@ -7,7 +7,7 @@ Yang Chai, The Hong Kong Polytechnic University
 |Chen, J., Zhou, Z., Kim, B.J. et al.<br>[Optoelectronic graded neurons for bioinspired in-sensor motion perception](https://doi.org/10.1038/s41565-023-01379-2).<br>Nat. Nanotechnol. 18, 882–888 (2023).||
 |F. Liao and Y. Chai.<br>[In-sensor Computing Devices for Bio-inspired Vision Sensors](https://ieeexplore.ieee.org/document/9798059).<br>2022 6th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Oita, Japan, 2022, pp. 307-309.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9798059)||
 |T. Wan, B. Shao, S. Ma, Y. Zhou, Q. Li, Y. Chai.<br>[In-Sensor Computing: Materials, Devices, and Integration Technologies](https://doi.org/10.1002/adma.202203830).<br>Adv. Mater. 2023, 35, 2203830.[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202203830?saml_referrer)||
-
+|.<br>[]().<br>[PDF]()||
 
 Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 |Paper|Comment|
@@ -28,12 +28,13 @@ Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 |S. -C. Liu, B. Rueckauer, E. Ceolini.<br>[Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms](https://ieeexplore.ieee.org/abstract/document/8887562).<br>EEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, Nov. 2019.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
 |H. Liu, D. P. Moeys, G. Das, D. Neil, S. -C. Liu and T. Delbrück.<br>[Combined frame- and event-based detection and tracking](https://ieeexplore.ieee.org/abstract/document/7539103).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539103)||
 |D. Neil and S. -C. Liu.<br>[Effective sensor fusion with event-based sensors and deep network architectures](https://ieeexplore.ieee.org/abstract/document/7539039).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2282-2285.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
-
+|.<br>[]().<br>[PDF]()||
 
 Boris Murmann, University of Hawaii
 |Paper|Comment|
 |:---|:---|
 |K. Ganesan et al.<br>[Sensory Particles with Optical Telemetry](https://ieeexplore.ieee.org/abstract/document/9180905).<br>2020 IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, 2020, pp. 1-5.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180905)||
+|.<br>[]().<br>[PDF]()||
 
 Piotr Dudek, University of Manchester
 |Paper|Comment|
@@ -45,15 +46,14 @@ Piotr Dudek, University of Manchester
 |Bose, L., Dudek, P., Chen, J., Carey, S.J., Mayol-Cuevas, W.W..<br>[Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays](https://dl.acm.org/doi/abs/10.1007/978-3-030-58526-6_29).<br>In Computer Vision – ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXIX. Springer-Verlag, Berlin, Heidelberg, 488–503.[PDF](https://arxiv.org/pdf/2004.12525.pdf)||
 |L. Bose, P. Dudek, J. Chen, S. Carey and W. Mayol-Cuevas.<br>[A Camera That CNNs: Towards Embedded Neural Networks on Pixel Processor Arrays](https://www.computer.org/csdl/proceedings-article/iccv/2019/480300b335/1hQqrJxzWBa).<br>2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019 pp. 1335-1344.[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bose_A_Camera_That_CNNs_Towards_Embedded_Neural_Networks_on_Pixel_ICCV_2019_paper.pdf)||
 |Chen, J., Carey, S. J., & Dudek, P..<br>[Scamp5d Vision System and Development Framework](https://dl.acm.org/doi/abs/10.1145/3243394.3243698).<br>In Proceedings of the 12th International Conference on Distributed Smart Cameras, ICDSC 2018 Article a23 Association for Computing Machinery.[PDF](https://personalpages.manchester.ac.uk/staff/p.dudek/papers/chen-icdsc2018.pdf)||
-
-
+|.<br>[]().<br>[PDF]()||
 
 Ralph Etienne-Cummings, Johns Hopkins University
 |Paper|Comment|
 |:---|:---|
 |Kwan, C., Chou, B., Yang, J. et al.<br>[Target tracking and classification using compressive sensing camera for SWIR videos](https://link.springer.com/article/10.1007/s11760-019-01506-4#citeas).<br>SIViP 13, 1629–1637 (2019).[PDF](https://link.springer.com/content/pdf/10.1007/s11760-019-01506-4.pdf)||
 |J. Zhang et al.<br>[A Closed-Loop, All-Electronic Pixel-Wise Adaptive Imaging System for High Dynamic Range Videography](https://ieeexplore.ieee.org/abstract/document/9016128).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 6, pp. 1803-1814, June 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016128)||
-|
+|.<br>[]().<br>[PDF]()||
 
 Chih-Cheng Hsieh, National Tsing Hua University
 |Paper|Comment|
@@ -64,8 +64,7 @@ Chih-Cheng Hsieh, National Tsing Hua University
 |T. -H. Hsu et al.<br>[A 0.5-V Real-Time Computational CMOS Image Sensor With Programmable Kernel for Feature Extraction](https://ieeexplore.ieee.org/abstract/document/9250500).<br>IEEE Journal of Solid-State Circuits, vol. 56, no. 5, pp. 1588-1596, May 2021[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9250500)||
 |Y. -S. Chen, T. -H. Hsu, G. -C. Chen, C. -W. Chen and C. -C. Hsieh.<br>[A Monolithic Optical Encoder using CMOS Image Sensor with Background Light Cancellation](https://ieeexplore.ieee.org/abstract/document/9181039).<br>2020 IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, 2020, pp. 1-4.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181039)||
 |.<br>[]().<br>[PDF]()||
-|.<br>[]().<br>[PDF]()||
-|.<br>[]().<br>[PDF]()||
+
 
 
 Roman Genov, University of Toronto
@@ -76,14 +75,14 @@ Roman Genov, University of Toronto
 | R. Gulve et al..<br>[39 000-Subexposures/s Dual-ADC CMOS Image Sensor With Dual-Tap Coded-Exposure Pixels for Single-Shot HDR and 3-D Computational Imaging](https://ieeexplore.ieee.org/document/10143350/authors#authors).<br>IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3150-3163, Nov. 2023.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10143350)||
 | N. Sarhangnejad et al..<br>[Dual-Tap Computational Photography Image Sensor With Per-Pixel Pipelined Digital Memory for Intra-Frame Coded Multi-Exposure](https://ieeexplore.ieee.org/document/8844261).<br>IEEE Journal of Solid-State Circuits, vol. 54, no. 11, pp. 3191-3202, Nov. 2019.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8844261)||
 | A. Nilchi, J. Aziz and R. Genov.<br>[Focal-Plane Algorithmically-Multiplying CMOS Computational Image Sensor](https://ieeexplore.ieee.org/document/4982878).<br>IEEE Journal of Solid-State Circuits, vol. 44, no. 6, pp. 1829-1839, June 2009.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4982878)||
-
+|.<br>[]().<br>[PDF]()||
 
 Robert LiKamWa, Arizona State University
 |Paper|Comment|
 |:---|:---|
 | R. LiKamWa, Y. Hou, Y. Gao, M. Polansky and L. Zhong.<br>[RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision](https://ieeexplore.ieee.org/document/7551398).<br>2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA), Seoul, Korea (South), 2016, pp. 255-266.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7551398)||
 | R. Likamwa, J. Hu, V. Kodukula and Y. Liu.<br>[Adaptive Resolution-Based Tradeoffs for Energy-Efficient Visual Computing Systems](https://ieeexplore.ieee.org/document/9354109).<br>IEEE Pervasive Computing, vol. 20, no. 2, pp. 18-26, 1 April-June 2021.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9354109)||
-
+|.<br>[]().<br>[PDF]()||
  
 Chiao Liu, Meta, Redmond, WA
 |Paper|Comment|
@@ -96,6 +95,7 @@ Chiao Liu, Meta, Redmond, WA
 |T. -H. Hsu and C. -C. Hsieh.<br>[A CMOS imaging platform using single photon avalanche diode array in standard technology](https://ieeexplore.ieee.org/abstract/document/8234040).<br>2017 IEEE SENSORS, Glasgow, UK, 2017, pp. 1-3.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8234040)||
 |A. Y. -C. Chiou, S. -E. Hsieh, Y. -Q. Pan, C. -C. Kuo and C. -C. Hsieh.<br>[An integrated CMOS optical sensing chip for multiple bio-signal detections](https://ieeexplore.ieee.org/abstract/document/7844169).<br>2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), Toyama, Japan, 2016, pp. 197-200[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844169)||
 |C. Yin, C. -F. Chiu and C. -C. Hsieh.<br>[A 0.5 V, 14.28-kframes/s, 96.7-dB Smart Image Sensor With Array-Level Image Signal Processing for IoT Applications](https://ieeexplore.ieee.org/abstract/document/7403939).<br>IEEE Transactions on Electron Devices, vol. 63, no. 3, pp. 1134-1140, March 2016[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7403939)||
+|.<br>[]().<br>[PDF]()||
 |.<br>[]().<br>[PDF]()||
  
 Fei Qiao, Tsinghua University
@@ -110,6 +110,7 @@ Fei Qiao, Tsinghua University
 | Z. Liu et al..<br>[NS-CIM: A Current-Mode Computation-in-Memory Architecture Enabling Near-Sensor Processing for Intelligent IoT Vision Nodes](https://ieeexplore.ieee.org/document/9061142).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 9, pp. 2909-2922, Sept. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9061142)||
 | Z. Chen et al..<br>[Processing Near Sensor Architecture in Mixed-Signal Domain With CMOS Image Sensor of Convolutional-Kernel-Readout Method](https://ieeexplore.ieee.org/document/8835152).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 2, pp. 389-400, Feb. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835152)||
 |Chen, Y., Nazhamaiti, M., Xu, H. et al.<br>[All-analog photoelectronic chip for high-speed vision tasks](https://www.nature.com/articles/s41586-023-06558-8).<br>Nature 623, 48–57 (2023). [PDF](https://www.nature.com/articles/s41586-023-06558-8.pdf)||
+|.<br>[]().<br>[PDF]()||
 
 Xuan Zhang, Northeastern University
 |Paper|Comment|
@@ -120,6 +121,7 @@ Xuan Zhang, Northeastern University
 | C. Zhao, X. Zhang and R. D. Chamberlain.<br>[Executing Data Integration Effectively and Efficiently Near the Memory](https://ieeexplore.ieee.org/document/9391688).<br>IEEE Design & Test, vol. 39, no. 2, pp. 65-73, April 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9391688)||
 | L. Ke et al..<br>[RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing](https://ieeexplore.ieee.org/document/9138955).<br>2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020, pp. 790-803.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138955)||
 |Tianrui Ma, Adith Jagadish Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, and Xuan Zhang.<br>[LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/abs/10.1145/3579371.3589089).<br>In Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA '23). Association for Computing Machinery, New York, NY, USA, Article 54, 1–14.[PDF](https://dl.acm.org/doi/pdf/10.1145/3579371.3589089)||
+|.<br>[]().<br>[PDF]()||
 
 
 |.<br>[]().<br>[PDF]()||
