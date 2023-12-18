@@ -48,17 +48,23 @@ Piotr Dudek, University of Manchester
 
 
 
-Ralph Etienne-Cummings
+Ralph Etienne-Cummings, Johns Hopkins University
 |Paper|Comment|
 |:---|:---|
 |Kwan, C., Chou, B., Yang, J. et al.<br>[Target tracking and classification using compressive sensing camera for SWIR videos](https://link.springer.com/article/10.1007/s11760-019-01506-4#citeas).<br>SIViP 13, 1629–1637 (2019).[PDF](https://link.springer.com/content/pdf/10.1007/s11760-019-01506-4.pdf)||
 |J. Zhang et al.<br>[A Closed-Loop, All-Electronic Pixel-Wise Adaptive Imaging System for High Dynamic Range Videography](https://ieeexplore.ieee.org/abstract/document/9016128).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 6, pp. 1803-1814, June 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016128)||
-|.<br>[]().<br>[PDF]()||
-|.<br>[]().<br>[PDF]()||
+|
 
-Chih-Cheng Hsieh
+Chih-Cheng Hsieh, National Tsing Hua University
 |Paper|Comment|
 |:---|:---|
+|M. -Y. Chiu et al.<br>[A Multimode Vision Sensor With Temporal Contrast Pixel and Column-Parallel Local Binary Pattern Extraction for Dynamic Depth Sensing Using Stereo Vision](https://ieeexplore.ieee.org/abstract/document/10185151).<br>EEE Journal of Solid-State Circuits, vol. 58, no. 10, pp. 2767-2777, Oct. 2023[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185151)||
+|T. -H. Hsu et al.<br>[A 0.8 V Intelligent Vision Sensor With Tiny Convolutional Neural Network and Programmable Weights Using Mixed-Mode Processing-in-Sensor Technique for Image Classification](https://ieeexplore.ieee.org/abstract/document/10164007).<br>IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3266-3274, Nov. 2023.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164007)||
+|T. -H. Hsu et al.<br>[A 0.8 V Multimode Vision Sensor for Motion and Saliency Detection With Ping-Pong PWM Pixel](https://ieeexplore.ieee.org/abstract/document/9425497).<br>IEEE Journal of Solid-State Circuits, vol. 56, no. 8, pp. 2516-2524, Aug. 2021[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425497)||
+|T. -H. Hsu et al.<br>[A 0.5-V Real-Time Computational CMOS Image Sensor With Programmable Kernel for Feature Extraction](https://ieeexplore.ieee.org/abstract/document/9250500).<br>IEEE Journal of Solid-State Circuits, vol. 56, no. 5, pp. 1588-1596, May 2021[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9250500)||
+|Y. -S. Chen, T. -H. Hsu, G. -C. Chen, C. -W. Chen and C. -C. Hsieh.<br>[A Monolithic Optical Encoder using CMOS Image Sensor with Background Light Cancellation](https://ieeexplore.ieee.org/abstract/document/9181039).<br>2020 IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, 2020, pp. 1-4.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181039)||
+|.<br>[]().<br>[PDF]()||
+|.<br>[]().<br>[PDF]()||
 |.<br>[]().<br>[PDF]()||
 
 
@@ -116,3 +122,5 @@ Xuan Zhang, Northeastern University
 |Paper|Comment|
 |:---|:---|
 |.<br>[]().<br>[PDF]()||
+|.<br>[]().<br>[PDF]()||
+|.<br>[]().<br>[PDF]()|
