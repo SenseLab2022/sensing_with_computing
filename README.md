@@ -30,30 +30,34 @@ Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 |D. Neil and S. -C. Liu.<br>[Effective sensor fusion with event-based sensors and deep network architectures](https://ieeexplore.ieee.org/abstract/document/7539039).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2282-2285.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
 
 
-Boris Murmann
+Boris Murmann, University of Hawaii
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>[PDF]()||
+|K. Ganesan et al.<br>[Sensory Particles with Optical Telemetry](https://ieeexplore.ieee.org/abstract/document/9180905).<br>2020 IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, 2020, pp. 1-5.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180905)||
 
-Piotr Dudek
+Piotr Dudek, University of Manchester
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>||
+|Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein.<br>[PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors](https://arxiv.org/abs/2304.05440).<br>arXiv:2304.05440[PDF](https://arxiv.org/pdf/2304.05440.pdf)||
+|Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.<br>[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full).<br>Front. Neurosci. 16:909448.[PDF](https://www.ruirangerfan.com/pdf/fnins2022_liu.pdf)||
+|Piotr Dudek et al.<br>[Sensor-level computer vision with pixel processor arrays for agile robots](https://www.science.org/doi/full/10.1126/scirobotics.abl7755).<br>Sci. Robot.7,eabl7755(2022).[PDF](https://www.science.org/doi/epdf/10.1126/scirobotics.abl7755)||
+|.<br>[]().<br>[PDF]()||
+|.<br>[]().<br>[PDF]()||
 
 Ralph Etienne-Cummings
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>||
+|.<br>[]().<br>[PDF]()||
 
 Chih-Cheng Hsieh
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>||
+|.<br>[]().<br>[PDF]()||
 
 Roman Genov
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>||
+|.<br>[]().<br>[PDF]()||
 
 Robert LiKamWa
 |Paper|Comment|
@@ -65,7 +69,7 @@ Chiao Liu
 |:---|:---|
 |.<br>[]().<br>||
 
-Fei Qiao
+Fei Qiao, Tsinghua University
 |Paper|Comment|
 |:---|:---|
 |.<br>[]().<br>||
