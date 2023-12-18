@@ -51,6 +51,9 @@ Piotr Dudek, University of Manchester
 Ralph Etienne-Cummings
 |Paper|Comment|
 |:---|:---|
+|Kwan, C., Chou, B., Yang, J. et al.<br>[Target tracking and classification using compressive sensing camera for SWIR videos](https://link.springer.com/article/10.1007/s11760-019-01506-4#citeas).<br>SIViP 13, 1629–1637 (2019).[PDF](https://link.springer.com/content/pdf/10.1007/s11760-019-01506-4.pdf)||
+|J. Zhang et al.<br>[A Closed-Loop, All-Electronic Pixel-Wise Adaptive Imaging System for High Dynamic Range Videography](https://ieeexplore.ieee.org/abstract/document/9016128).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 6, pp. 1803-1814, June 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016128)||
+|.<br>[]().<br>[PDF]()||
 |.<br>[]().<br>[PDF]()||
 
 Chih-Cheng Hsieh
