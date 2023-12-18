@@ -13,7 +13,7 @@ Tobi Delbruck, ETH Zurich
 |Paper|Comment|
 |:---|:---|
 |A. Rios-Navarro et al.<br>[Within-Camera Multilayer Perceptron DVS Denoising](https://arxiv.org/abs/2304.07543).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3933-3942.[PDF](https://arxiv.org/pdf/2304.07543.pdf)||
-|G. Gallego et al.<br>[Event-Based Vision: A Survey](10.1109/TPAMI.2020.3008413).<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 1, pp. 154-180, 1 Jan. 2022||
+|G. Gallego et al.<br>[Event-Based Vision: A Survey](https://ieeexplore.ieee.org/document/9138762)).<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 1, pp. 154-180, 1 Jan. 2022.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138762)||
 |A. Amir et al.<br>[A Low Power, Fully Event-Based Gesture Recognition System](10.1109/CVPR.2017.781).<br>2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, USA, 2017, pp. 7388-7397||
 |O'Connor P, Neil D, Liu SC, Delbruck T and Pfeiffer M.<br>[Real-time classification and sensor fusion with a spiking deep belief network](https://doi.org/10.3389/fnins.2013.00178).<br>Front. Neurosci. 7:178.||
 |Rui Graca, Brian McReynolds, Tobi Delbruck.<br>[Optimal biasing and physical limits of DVS event noise](https://doi.org/10.48550/arXiv.2304.04019).<br>2023 International Image Sensor Workshop||
