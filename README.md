@@ -93,7 +93,10 @@ Chiao Liu, Meta, Redmond, WA
 | X. Dong et al..<br>[SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems](https://ieeexplore.ieee.org/document/9879512).<br>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 12549-12559.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879512)||
 | R. Ikeno et al..<br>[A 4.6-μm, 127-dB Dynamic Range, Ultra-Low Power Stacked Digital Pixel Sensor With Overlapped Triple Quantization](https://ieeexplore.ieee.org/document/9684032).<br>IEEE Transactions on Electron Devices, vol. 69, no. 6, pp. 2943-2950, June 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9684032)||
 | C. Liu, A. Berkovich, S. Chen, H. Reyserhove, S. S. Sarwar and T. -H. Tsai.<br>[Intelligent Vision Systems – Bringing Human-Machine Interface to AR/VR](https://ieeexplore.ieee.org/document/8993566).<br>2019 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2019, pp. 10.5.1-10.5.4.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8993566)||
-
+|T. -H. Hsu and C. -C. Hsieh.<br>[A CMOS imaging platform using single photon avalanche diode array in standard technology](https://ieeexplore.ieee.org/abstract/document/8234040).<br>2017 IEEE SENSORS, Glasgow, UK, 2017, pp. 1-3.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8234040)||
+|A. Y. -C. Chiou, S. -E. Hsieh, Y. -Q. Pan, C. -C. Kuo and C. -C. Hsieh.<br>[An integrated CMOS optical sensing chip for multiple bio-signal detections](https://ieeexplore.ieee.org/abstract/document/7844169).<br>2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), Toyama, Japan, 2016, pp. 197-200[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844169)||
+|C. Yin, C. -F. Chiu and C. -C. Hsieh.<br>[A 0.5 V, 14.28-kframes/s, 96.7-dB Smart Image Sensor With Array-Level Image Signal Processing for IoT Applications](https://ieeexplore.ieee.org/abstract/document/7403939).<br>IEEE Transactions on Electron Devices, vol. 63, no. 3, pp. 1134-1140, March 2016[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7403939)||
+|.<br>[]().<br>[PDF]()||
  
 Fei Qiao, Tsinghua University
 |Paper|Comment|
@@ -118,9 +121,6 @@ Xuan Zhang, Northeastern University
 | L. Ke et al..<br>[RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing](https://ieeexplore.ieee.org/document/9138955).<br>2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020, pp. 790-803.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138955)||
 |Tianrui Ma, Adith Jagadish Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, and Xuan Zhang.<br>[LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/abs/10.1145/3579371.3589089).<br>In Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA '23). Association for Computing Machinery, New York, NY, USA, Article 54, 1–14.[PDF](https://dl.acm.org/doi/pdf/10.1145/3579371.3589089)||
 
-## Ungrouped
-|Paper|Comment|
-|:---|:---|
+
 |.<br>[]().<br>[PDF]()||
-|.<br>[]().<br>[PDF]()||
-|.<br>[]().<br>[PDF]()|
+
