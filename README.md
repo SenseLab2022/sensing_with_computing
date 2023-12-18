@@ -100,7 +100,7 @@ Fei Qiao, Tsinghua University
 | H. Xu et al..<br>[Utilizing Direct Photocurrent Computation and 2D Kernel Scheduling to Improve In-Sensor-Processing Efficiency](https://ieeexplore.ieee.org/document/9218622).<br>2020 57th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2020, pp. 1-6.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218622)||
 | Z. Liu et al..<br>[NS-CIM: A Current-Mode Computation-in-Memory Architecture Enabling Near-Sensor Processing for Intelligent IoT Vision Nodes](https://ieeexplore.ieee.org/document/9061142).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 9, pp. 2909-2922, Sept. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9061142)||
 | Z. Chen et al..<br>[Processing Near Sensor Architecture in Mixed-Signal Domain With CMOS Image Sensor of Convolutional-Kernel-Readout Method](https://ieeexplore.ieee.org/document/8835152).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 2, pp. 389-400, Feb. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835152)||
-
+|Chen, Y., Nazhamaiti, M., Xu, H. et al.<br>[All-analog photoelectronic chip for high-speed vision tasks](https://www.nature.com/articles/s41586-023-06558-8).<br>Nature 623, 48–57 (2023). [PDF](https://www.nature.com/articles/s41586-023-06558-8.pdf)||
 
 Xuan Zhang, Northeastern University
 |Paper|Comment|
@@ -110,9 +110,9 @@ Xuan Zhang, Northeastern University
 | W. Cao, Y. Zhao, A. Boloor, Y. Han, X. Zhang and L. Jiang.<br>[Neural-PIM: Efficient Processing-In-Memory With Neural Approximation of Peripherals](https://ieeexplore.ieee.org/document/9591330).<br>IEEE Transactions on Computers, vol. 71, no. 9, pp. 2142-2155, 1 Sept. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591330)||
 | C. Zhao, X. Zhang and R. D. Chamberlain.<br>[Executing Data Integration Effectively and Efficiently Near the Memory](https://ieeexplore.ieee.org/document/9391688).<br>IEEE Design & Test, vol. 39, no. 2, pp. 65-73, April 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9391688)||
 | L. Ke et al..<br>[RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing](https://ieeexplore.ieee.org/document/9138955).<br>2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020, pp. 790-803.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138955)||
-
+|Tianrui Ma, Adith Jagadish Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, and Xuan Zhang.<br>[LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/abs/10.1145/3579371.3589089).<br>In Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA '23). Association for Computing Machinery, New York, NY, USA, Article 54, 1–14.[PDF](https://dl.acm.org/doi/pdf/10.1145/3579371.3589089)||
 
 ## Ungrouped
 |Paper|Comment|
 |:---|:---|
-|.<br>[]().<br>||
+|.<br>[]().<br>[PDF]()||
