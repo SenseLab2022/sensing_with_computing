@@ -28,12 +28,13 @@ Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 |S. -C. Liu, B. Rueckauer, E. Ceolini.<br>[Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms](https://ieeexplore.ieee.org/abstract/document/8887562).<br>EEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, Nov. 2019.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
 |H. Liu, D. P. Moeys, G. Das, D. Neil, S. -C. Liu and T. Delbrück.<br>[Combined frame- and event-based detection and tracking](https://ieeexplore.ieee.org/abstract/document/7539103).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539103)||
 |D. Neil and S. -C. Liu.<br>[Effective sensor fusion with event-based sensors and deep network architectures](https://ieeexplore.ieee.org/abstract/document/7539039).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2282-2285.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
-|.<br>[]().<br>[PDF]()||
+|.<br>[](https://personalpages.manchester.ac.uk/staff/p.dudek/papers/carey-vlsi2013.pdf).<br>[PDF]()||
 
 
 Piotr Dudek, University of Manchester
 |Paper|Comment|Hightlight|
 |:---|:---|:---:|
+|S.J.Carey, A.Lopich, D.R.W.Barr, B.Wang and P.Dudek.<br>[A 100,000 fps Vision Sensor with Embedded 535GOPS/W 256x256 SIMD Processor Array ](https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/).<br>VLSI Circuits Symposium 2013, pp.C182-C183, June 2013.[PDF](https://personalpages.manchester.ac.uk/staff/p.dudek/papers/carey-vlsi2013.pdf)||
 |Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein.<br>[PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors](https://arxiv.org/abs/2304.05440).<br>arXiv:2304.05440[PDF](https://arxiv.org/pdf/2304.05440.pdf)|1. PixelRNN, that encodes spatio-temporal features on the sensor using purely binary operations<br>2. Based on SCAMP-5 sensor-processor platform|Y|
 |Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.<br>[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full).<br>Front. Neurosci. 16:909448.[PDF](https://www.ruirangerfan.com/pdf/fnins2022_liu.pdf)||
 |Piotr Dudek et al.<br>[Sensor-level computer vision with pixel processor arrays for agile robots](https://www.science.org/doi/full/10.1126/scirobotics.abl7755).<br>Sci. Robot.7,eabl7755(2022).[PDF](https://www.science.org/doi/epdf/10.1126/scirobotics.abl7755)||
