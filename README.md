@@ -32,8 +32,8 @@ Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 
 
 Piotr Dudek, University of Manchester
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 |Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein.<br>[PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors](https://arxiv.org/abs/2304.05440).<br>arXiv:2304.05440[PDF](https://arxiv.org/pdf/2304.05440.pdf)|1. PixelRNN, that encodes spatio-temporal features on the sensor using purely binary operations<br>2. Based on SCAMP-5 sensor-processor platform|Y|
 |Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.<br>[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full).<br>Front. Neurosci. 16:909448.[PDF](https://www.ruirangerfan.com/pdf/fnins2022_liu.pdf)||
 |Piotr Dudek et al.<br>[Sensor-level computer vision with pixel processor arrays for agile robots](https://www.science.org/doi/full/10.1126/scirobotics.abl7755).<br>Sci. Robot.7,eabl7755(2022).[PDF](https://www.science.org/doi/epdf/10.1126/scirobotics.abl7755)||
