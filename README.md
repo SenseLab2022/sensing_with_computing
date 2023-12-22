@@ -30,11 +30,6 @@ Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
 |D. Neil and S. -C. Liu.<br>[Effective sensor fusion with event-based sensors and deep network architectures](https://ieeexplore.ieee.org/abstract/document/7539039).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2282-2285.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
 |.<br>[]().<br>[PDF]()||
 
-Boris Murmann, University of Hawaii
-|Paper|Comment|
-|:---|:---|
-|K. Ganesan et al.<br>[Sensory Particles with Optical Telemetry](https://ieeexplore.ieee.org/abstract/document/9180905).<br>2020 IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, 2020, pp. 1-5.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180905)||
-|.<br>[]().<br>[PDF]()||
 
 Piotr Dudek, University of Manchester
 |Paper|Comment|
