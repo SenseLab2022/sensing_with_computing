@@ -45,15 +45,15 @@ Piotr Dudek, University of Manchester
 |.<br>[]().<br>[PDF]()||
 
 Ralph Etienne-Cummings, Johns Hopkins University
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 |Kwan, C., Chou, B., Yang, J. et al.<br>[Target tracking and classification using compressive sensing camera for SWIR videos](https://link.springer.com/article/10.1007/s11760-019-01506-4#citeas).<br>SIViP 13, 1629–1637 (2019).[PDF](https://link.springer.com/content/pdf/10.1007/s11760-019-01506-4.pdf)||
 |J. Zhang et al.<br>[A Closed-Loop, All-Electronic Pixel-Wise Adaptive Imaging System for High Dynamic Range Videography](https://ieeexplore.ieee.org/abstract/document/9016128).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 6, pp. 1803-1814, June 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016128)||
 |.<br>[]().<br>[PDF]()||
 
 Chih-Cheng Hsieh, National Tsing Hua University
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 |M. -Y. Chiu et al.<br>[A Multimode Vision Sensor With Temporal Contrast Pixel and Column-Parallel Local Binary Pattern Extraction for Dynamic Depth Sensing Using Stereo Vision](https://ieeexplore.ieee.org/abstract/document/10185151).<br>EEE Journal of Solid-State Circuits, vol. 58, no. 10, pp. 2767-2777, Oct. 2023[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185151)||
 |T. -H. Hsu et al.<br>[A 0.8 V Intelligent Vision Sensor With Tiny Convolutional Neural Network and Programmable Weights Using Mixed-Mode Processing-in-Sensor Technique for Image Classification](https://ieeexplore.ieee.org/abstract/document/10164007).<br>IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3266-3274, Nov. 2023.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164007)||
 |T. -H. Hsu et al.<br>[A 0.8 V Multimode Vision Sensor for Motion and Saliency Detection With Ping-Pong PWM Pixel](https://ieeexplore.ieee.org/abstract/document/9425497).<br>IEEE Journal of Solid-State Circuits, vol. 56, no. 8, pp. 2516-2524, Aug. 2021[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425497)||
@@ -64,8 +64,8 @@ Chih-Cheng Hsieh, National Tsing Hua University
 
 
 Roman Genov, University of Toronto
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 | A. Nilchi, J. Aziz and R. Genov.<br>[Focal-Plane Algorithmically-Multiplying CMOS Computational Image Sensor](https://ieeexplore.ieee.org/document/4982878).<br>IEEE Journal of Solid-State Circuits, vol. 44, no. 6, pp. 1829-1839, June 2009.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4982878)||
 | D. Ho, G. Gulak and R. Genov.<br>[CMOS 3-T digital pixel sensor with in-pixel shared comparator](https://ieeexplore.ieee.org/document/6272197).<br>2012 IEEE International Symposium on Circuits and Systems (ISCAS), Seoul, Korea (South), 2012, pp. 930-933.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6272197)||
 | R. Gulve et al..<br>[39 000-Subexposures/s Dual-ADC CMOS Image Sensor With Dual-Tap Coded-Exposure Pixels for Single-Shot HDR and 3-D Computational Imaging](https://ieeexplore.ieee.org/document/10143350/authors#authors).<br>IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3150-3163, Nov. 2023.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10143350)||
@@ -74,15 +74,15 @@ Roman Genov, University of Toronto
 |.<br>[]().<br>[PDF]()||
 
 Robert LiKamWa, Arizona State University
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 | R. LiKamWa, Y. Hou, Y. Gao, M. Polansky and L. Zhong.<br>[RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision](https://ieeexplore.ieee.org/document/7551398).<br>2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA), Seoul, Korea (South), 2016, pp. 255-266.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7551398)||
 | R. Likamwa, J. Hu, V. Kodukula and Y. Liu.<br>[Adaptive Resolution-Based Tradeoffs for Energy-Efficient Visual Computing Systems](https://ieeexplore.ieee.org/document/9354109).<br>IEEE Pervasive Computing, vol. 20, no. 2, pp. 18-26, 1 April-June 2021.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9354109)||
 |.<br>[]().<br>[PDF]()||
  
 Chiao Liu, Meta, Redmond, WA
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 | S. Chen et al..<br>[A 3.96μm, 124dB Dynamic Range, 6.2mW Stacked Digital Pixel Sensor with Monochrome and Near-Infrared Dual-Channel Global Shutter Capture](https://ieeexplore.ieee.org/document/10185291).<br>2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Kyoto, Japan, 2023, pp. 1-2.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185291)||
 | C. Liu, S. Chen, T. -H. Tsai, B. de Salvo and J. Gomez.<br>[Augmented Reality - The Next Frontier of Image Sensors and Compute Systems](https://ieeexplore.ieee.org/document/9731584).<br>2022 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, 2022, pp. 426-428.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731584)||
 | X. Dong et al..<br>[SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems](https://ieeexplore.ieee.org/document/9879512).<br>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 12549-12559.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879512)||
@@ -95,8 +95,8 @@ Chiao Liu, Meta, Redmond, WA
 |.<br>[]().<br>[PDF]()||
  
 Fei Qiao, Tsinghua University
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 | Z. Li, H. Xu, Z. Liu, L. Luo, Q. Wei and F. Qiao.<br>[A 2.17μW@120fps Ultra-Low-Power Dual-Mode CMOS Image Sensor with Senputing Architecture](https://ieeexplore.ieee.org/document/9712591).<br>2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan, 2022, pp. 92-93.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712591)||
 | H. Xu et al..<br>[Senputing: An Ultra-Low-Power Always-On Vision Perception Chip Featuring the Deep Fusion of Sensing and Computing](https://ieeexplore.ieee.org/document/9464962).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 1, pp. 232-243, Jan. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9464962)||
 | H. Xu et al..<br>[A 4.57 μW@120fps Vision System of Sensing with Computing for BNN-Based Perception Applications](https://ieeexplore.ieee.org/document/9634759).<br>2021 IEEE Asian Solid-State Circuits Conference (A-SSCC), Busan, Korea, Republic of, 2021, pp. 1-3.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9634759)||
@@ -109,8 +109,8 @@ Fei Qiao, Tsinghua University
 |.<br>[]().<br>[PDF]()||
 
 Xuan Zhang, Northeastern University
-|Paper|Comment|
-|:---|:---|
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
 | O. Bell, C. Gill and X. Zhang.<br>[Hardware Acceleration with Zero-Copy Memory Management for Heterogeneous Computing](https://ieeexplore.ieee.org/document/10296291).<br>2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Niigata, Japan, 2023, pp. 28-37.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296291)||
 | L. Ke et al..<br>[Near-Memory Processing in Action: Accelerating Personalized Recommendation With AxDIMM](https://ieeexplore.ieee.org/document/9489313).<br>IEEE Micro, vol. 42, no. 1, pp. 116-127, 1 Jan.-Feb. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9489313)||
 | W. Cao, Y. Zhao, A. Boloor, Y. Han, X. Zhang and L. Jiang.<br>[Neural-PIM: Efficient Processing-In-Memory With Neural Approximation of Peripherals](https://ieeexplore.ieee.org/document/9591330).<br>IEEE Transactions on Computers, vol. 71, no. 9, pp. 2142-2155, 1 Sept. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591330)||
@@ -119,6 +119,15 @@ Xuan Zhang, Northeastern University
 |Tianrui Ma, Adith Jagadish Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, and Xuan Zhang.<br>[LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/abs/10.1145/3579371.3589089).<br>In Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA '23). Association for Computing Machinery, New York, NY, USA, Article 54, 1–14.[PDF](https://dl.acm.org/doi/pdf/10.1145/3579371.3589089)||
 |.<br>[]().<br>[PDF]()||
 
+Houk Jang, Harvard University
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
+| Jang, H., Hinton, H., Jung, WB. et al.<br>[In-sensor optoelectronic computing using electrostatically doped silicon](https://www.nature.com/articles/s41928-022-00819-6).<br>Nat Electron 5, 519–525.[PDF](https://www.nature.com/articles/s41928-022-00819-6.pdf)|The theoretically analyzed temporal resolution limit of silicon image sensors is mainly governed by mixing of charges with different travel times caused by the distribution of penetration depth of light.|Y|
+|.<br>[]().<br>[PDF]()||
 
-
+Takeharu Goji Etoh, Osaka University
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
+| Etoh, Takeharu & Nguyen, Anh Quang & Kamakura, Yoshinari & Shimonomura, Kazuhiro & Le Thi, Yen & Mori, Nobuya.<br>[The Theoretical Highest Frame Rate of Silicon Image Sensors](https://www.researchgate.net/publication/314127367_The_Theoretical_Highest_Frame_Rate_of_Silicon_Image_Sensors).<br>Sensors. 17. 483. 10.3390/s17030483.[PDF](https://res.mdpi.com/sensors/sensors-17-00483/article_deploy/sensors-17-00483-v2.pdf)|1.The theoretically analyzed temporal resolution limit of silicon image sensors is mainly governed by mixing of charges with different travel times caused by the distribution of penetration depth of light. <br>2.The theoretical highest frame rate is 90.1 Gfps (about 1011 fps).|Y|
+|.<br>[]().<br>[PDF]()||
 
