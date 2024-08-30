@@ -104,6 +104,12 @@ Fei Qiao, Tsinghua University
 | Z. Liu et al..<br>[NS-CIM: A Current-Mode Computation-in-Memory Architecture Enabling Near-Sensor Processing for Intelligent IoT Vision Nodes](https://ieeexplore.ieee.org/document/9061142).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 9, pp. 2909-2922, Sept. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9061142)|1.Architecture level .<br>2.A combined architecture cooperating sensor with CIM macro .<br>3.Current-mode computing technique .<br>4.Non-idealities analysis of mixed-signal circuits with a co-design scheme to mitigate the imperfections|Y|
 | Z. Chen et al..<br>[Processing Near Sensor Architecture in Mixed-Signal Domain With CMOS Image Sensor of Convolutional-Kernel-Readout Method](https://ieeexplore.ieee.org/document/8835152).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 2, pp. 389-400, Feb. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835152)|1. architecture level .<br>2. Near sensor work .<br> 3.Mixed-signal domain .<br>4.Ealuation of the fault-tolerance of the system to circuit noise and the device imperfection|N|
 | Chen, Y., Nazhamaiti, M., Xu, H. et al.<br>[All-analog photoelectronic chip for high-speed vision tasks](https://www.nature.com/articles/s41586-023-06558-8).<br>Nature 623, 48–57 (2023). [PDF](https://www.nature.com/articles/s41586-023-06558-8.pdf)|All-analog chip combining electronic and light computing|Y|
+|H. Xu , F. Qiao et al.<br> [A 5.9μW Ultra-Low-Power Dual-Resolution CIS Chip of Sensing-with-Computing for Always-on Intelligent Visual Devices](https://ieeexplore.ieee.org/document/9401338).<br>_2021 IEEE International Symposium on Circuits and Systems (ISCAS)_, Daegu, Korea, 2021, pp. 1-5.<br>[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401338)|Mixed-signal|
+|T. Ma _et al_.<br>[An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications](https://ieeexplore.ieee.org/document/9012906)<br>_2019 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)_, Chengdu, China, 2019, pp. 150-155.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012906)|All analog<br>Current-mode computation|
+|Z. Liu _et al_.<br>[A 1.8mW Perception Chip with Near-Sensor Processing Scheme for Low-Power AIoT Applications](https://ieeexplore.ieee.org/document/8839347).<br>_2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)_, Miami, FL, USA, 2019, pp. 447-452.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8839347)||
+|Z. Fan _et al_..<br>[ASP-SIFT: Using Analog Signal Processing Architecture to Accelerate Keypoint Detection of SIFT Algorithm,](https://ieeexplore.ieee.org/document/8836114).<br>_IEEE Transactions on Very Large Scale Integration (VLSI) Systems_, vol. 28, no. 1, pp. 198-211, Jan. 2020,[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836114)|real-time SIFT implementation|
+|Yang, X., Liu, Z., Tang, K. _et al._.<br>[Breaking the energy-efficiency barriers for smart sensing applications with “Sensing with Computing” architectures.](https://link.springer.com/article/10.1007/s11432-023-3760-8).<br>_Sci. China Inf. Sci._  **66**, 200409 (2023).[PDF](https://link.springer.com/content/pdf/10.1007/s11432-023-3760-8.pdf)|Review of smart sensing systems with “Sensing with Computing” architectures.|
+|Maimaiti Nazhamaiti, Haijin Su et al.<br>[In-situ self-powered intelligent vision system with inference-adaptive energy scheduling for BNN-based always-on perception](https://dl.acm.org/doi/abs/10.1145/3489517.3530554).<br>In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC '22). Association for Computing Machinery, New York, NY, USA, 913–918.[PDF](https://dl.acm.org/doi/pdf/10.1145/3489517.3530554)||
 |.<br>[]().<br>[PDF]()||
 
 Xuan Zhang, Northeastern University
@@ -127,6 +133,27 @@ Takeharu Goji Etoh, Osaka University
 |Paper|Comment|Hightlight|
 |:---|:---|:---:|
 | Etoh, Takeharu & Nguyen, Anh Quang & Kamakura, Yoshinari & Shimonomura, Kazuhiro & Le Thi, Yen & Mori, Nobuya.<br>[The Theoretical Highest Frame Rate of Silicon Image Sensors](https://www.researchgate.net/publication/314127367_The_Theoretical_Highest_Frame_Rate_of_Silicon_Image_Sensors).<br>Sensors. 17. 483. 10.3390/s17030483.[PDF](https://res.mdpi.com/sensors/sensors-17-00483/article_deploy/sensors-17-00483-v2.pdf)|1.The theoretically analyzed temporal resolution limit of silicon image sensors is mainly governed by mixing of charges with different travel times caused by the distribution of penetration depth of light. <br>2.The theoretical highest frame rate is 90.1 Gfps (about 1011 fps).|Y|
+|.<br>[]().<br>[PDF]()||
+
+Rui P. Martins, University of Macau
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
+|J. Wu _et al_.<br>[A Multimode CMOS Vision Sensor With On-Chip Motion Direction Detection and Simultaneous Energy Harvesting Capabilities,](https://ieeexplore.ieee.org/document/9789972).<br>_IEEE Sensors Journal_, vol. 22, no. 13, pp. 12808-12819, 1 July1, 2022, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9789972)|Energy havesting capabilities|
+|.<br>[]().<br>[PDF]()||
+
+Hoi-Jun Yoo, Korea Advanced Institute of Science and Technology
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
+|K. Bong, S. Choi, C. Kim, D. Han and H. -J. Yoo,.<br>[A Low-Power Convolutional Neural Network Face Recognition Processor and a CIS Integrated With Always-on Face Detector](https://ieeexplore.ieee.org/document/8197364).<br>_IEEE Journal of Solid-State Circuits_, vol. 53, no. 1, pp. 115-123, Jan. 2018. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8197364)|CIS+CNNP,<br>Analog–digital hybrid haar-like|
+|J. -H. Kim, C. Kim, K. Kim and H. -J. Yoo.<br>[An Ultra-Low-Power Analog-Digital Hybrid CNN Face Recognition Processor Integrated with a CIS for Always-on Mobile Devices](https://ieeexplore.ieee.org/document/8702698).<br>_2019 IEEE International Symposium on Circuits and Systems (ISCAS)_, Sapporo, Japan, 2019, pp. 1-5. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702698)|Analog-digital hybrid|
+|.<br>[]().<br>[PDF]()||
+
+Hun Seok Kim & Dennis Sylvester, University of Michigan
+|Paper|Comment|Hightlight|
+|:---|:---|:---:|
+|H. An _et al_.<br>[An Ultra-Low-Power Image Signal Processor for Hierarchical Image Recognition With Deep Neural Networks](https://ieeexplore.ieee.org/document/9293122).<br>_IEEE Journal of Solid-State Circuits_, vol. 56, no. 4, pp. 1071-1081, April 2021.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9293122)|1. In temporal and spatial dimensions<BR> 2. DNN use deep compression of all on-chip weights|
+|M. Cho _et al_.<br>[17.2 A 142nW Voice and Acoustic Activity Detection Chip for mm-Scale Sensor Nodes Using Time-Interleaved Mixer-Based Frequency Scanning](https://ieeexplore.ieee.org/document/8662540).<br>_2019 IEEE International Solid-State Circuits Conference - (ISSCC)_, San Francisco, CA, USA, 2019, pp. 278-280. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662540)|a neural network-based acoustic sensing system for both VAD and non-voice event detection|
+|S. Jeong _et al_.<br>[21.6 A 12nW always-on acoustic sensing and object recognition microsystem using frequency-domain feature extraction and SVM classification](https://ieeexplore.ieee.org/document/7870411).<br>_2017 IEEE International Solid-State Circuits Conference (ISSCC)_, San Francisco, CA, USA, 2017, pp. 362-363. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7870411)|acoustic sensing system|
 |.<br>[]().<br>[PDF]()||
 
 
