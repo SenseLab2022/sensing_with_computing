@@ -51,7 +51,7 @@ This is a paper list of **Sensing_with_Computing** research.
 ---
 
 ### 🔬 Research
-
+<br>
 ####  💡 Near-Sensor Computing
 
 
@@ -96,7 +96,7 @@ This is a paper list of **Sensing_with_Computing** research.
 
 
 
-
+<br>
 
 
 #### 💡 In-Sensor Computing
@@ -145,7 +145,7 @@ This is a paper list of **Sensing_with_Computing** research.
   🔗 [Link](https://example.com)  
 
 
-
+<br>
 
 
 #### 💡  Pre-Sensor Computing
@@ -164,7 +164,7 @@ This is a paper list of **Sensing_with_Computing** research.
 
 
 
-
+<br>
 
 #### 💡  Algorithm
 
@@ -174,8 +174,7 @@ This is a paper list of **Sensing_with_Computing** research.
  📝 **Comments:** 
   🔗 [Link](https://example.com)  
 
-|S. Jeong _et al_.<br>[21.6 A 12nW always-on acoustic sensing and object recognition microsystem using frequency-domain feature extraction and SVM classification](https://ieeexplore.ieee.org/document/7870411).<br>_2017 IEEE International Solid-State Circuits Conference (ISSCC)_, San Francisco, CA, USA, 2017, pp. 362-363. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7870411)|acoustic sensing system|
-|.<br>[]().<br>[PDF]()||
+
 
 
 
