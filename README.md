@@ -51,7 +51,7 @@ This is a paper list of **Sensing_with_Computing** research.
 ---
 
 ### 🔬 Research
-<br>
+
 ####  💡 Near-Sensor Computing
 
 
