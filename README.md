@@ -117,7 +117,7 @@ This is a paper list of **Sensing_with_Computing** research.
 
  - **[A 4.57 μW@120fps Vision System of Sensing with Computing for BNN-Based Perception Applications]**— 2021 IEEE Asian Solid-State Circuits Conference (A-SSCC), Busan, Korea, Republic of, 2021, pp. 1-3 — H. Xu, F. Qiao et al..
  
- 📝 **Comments:** Using both InSensor and NearSensor architecture. (DPCE array and CIM)
+     📝 **Comments:** Using both InSensor and NearSensor architecture. (DPCE array and CIM)
   🔗 [Link](https://ieeexplore.ieee.org/document/9634759) 
 
 
@@ -129,19 +129,19 @@ This is a paper list of **Sensing_with_Computing** research.
 
  - **[Utilizing Direct Photocurrent Computation and 2D Kernel Scheduling to Improve In-Sensor-Processing Efficiency]**— 2020 57th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2020, pp. 1-6 — H. Xu, F. Qiao et al..
  
- 📝 **Comments:**  Utilize photocurrents in the convolution operations directly; Adaptive kernel mapping and scheduling method
+   📝 **Comments:**  Utilize photocurrents in the convolution operations directly; Adaptive kernel mapping and scheduling method
   🔗 [Link](https://ieeexplore.ieee.org/document/9218622). 
 
 
 - **[A 5.9μW Ultra-Low-Power Dual-Resolution CIS Chip of Sensing-with-Computing for Always-on Intelligent Visual Devices]**— _2021 IEEE International Symposium on Circuits and Systems (ISCAS)_, Daegu, Korea, 2021, pp. 1-5. — H. Xu , F. Qiao et al. 
 
- 📝 **Comments:**  Mixed-signal
+   📝 **Comments:**  Mixed-signal
   🔗 [Link](https://ieeexplore.ieee.org/document/9401338).
 
 
 - **Paper Name**— Publisher — Author 
 
-📝 **Comments:** 
+  📝 **Comments:** 
   🔗 [Link](https://example.com)  
 
 
@@ -153,13 +153,13 @@ This is a paper list of **Sensing_with_Computing** research.
 
  - **[All-analog photoelectronic chip for high-speed vision tasks]**— Nature 623, 48–57 (2023). — Chen, Y., Nazhamaiti, M., Xu, H. et al. 
  
- 📝 **Comments:** All-analog chip combining electronic and light computing;   Presensor with Insensor architecture co-design
+   📝 **Comments:** All-analog chip combining electronic and light computing;   Presensor with Insensor architecture co-design
   🔗 [Link](https://www.nature.com/articles/s41586-023-06558-8)  
 
 
  - **Paper Name**— Publisher — Author 
  
- 📝 **Comments:** 
+   📝 **Comments:** 
   🔗 [Link](https://example.com)  
 
 
