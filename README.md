@@ -1,158 +1,157 @@
-# Sensing_with_Computing
-## Categorize by research group
-Yang Chai, The Hong Kong Polytechnic University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|Zhou, F., Chai, Y.<br>[Near-sensor and in-sensor computing](https://doi.org/10.1038/s41928-020-00501-9).<br>Nat Electron 3, 664–671 (2020).|1. Review <br>2. Review from three views: low-level processing, high-level processing and integration techniques.|Y|
-|Chen, J., Zhou, Z., Kim, B.J. et al.<br>[Optoelectronic graded neurons for bioinspired in-sensor motion perception](https://doi.org/10.1038/s41565-023-01379-2).<br>Nat. Nanotechnol. 18, 882–888 (2023).|1. MoS2 phototransistor<br>2. Motion detection|N|
-|F. Liao and Y. Chai.<br>[In-sensor Computing Devices for Bio-inspired Vision Sensors](https://ieeexplore.ieee.org/document/9798059).<br>2022 6th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Oita, Japan, 2022, pp. 307-309.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9798059)|1. Optoelectronic RAM and MoS2 phototransistor<br>2. Image pre-processing|N|
-|T. Wan, B. Shao, S. Ma, Y. Zhou, Q. Li, Y. Chai.<br>[In-Sensor Computing: Materials, Devices, and Integration Technologies](https://doi.org/10.1002/adma.202203830).<br>Adv. Mater. 2023, 35, 2203830.[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202203830?saml_referrer)|1. Review<br>2. Review for device level, array level and integration technologies|Y|
-|.<br>[]().<br>[PDF]()||
+<div align="center">
 
-Tobi Delbruck & Shih-Chii Liu, University of Zurich and ETH Zurich
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|A. Rios-Navarro et al.<br>[Within-Camera Multilayer Perceptron DVS Denoising](https://arxiv.org/abs/2304.07543).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3933-3942.[PDF](https://arxiv.org/pdf/2304.07543.pdf)|1. Near-sensor<br>2. Digital implementation|N|
-|G. Gallego et al.<br>[Event-Based Vision: A Survey](https://ieeexplore.ieee.org/document/9138762).<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 1, pp. 154-180, 1 Jan. 2022.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138762)|1. Review<br>2. Event camera|Y|
-|A. Amir et al.<br>[A Low Power, Fully Event-Based Gesture Recognition System](https://ieeexplore.ieee.org/document/8100264).<br>2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, USA, 2017, pp. 7388-7397.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100264)|1. DVS camera + TureNorth processor<br>2. CNNs are mapped to TrueNorth using the Energy-efficient deep networks (Eedn) algorithm|Y|
-|O'Connor P, Neil D, Liu SC, Delbruck T and Pfeiffer M.<br>[Real-time classification and sensor fusion with a spiking deep belief network](https://doi.org/10.3389/fnins.2013.00178).<br>Front. Neurosci. 7:178.[PDF](https://www.snn.ru.nl/computational-neuroscience/oconnor2013.pdf)|1. Deep Belief Networks (DBN)<br>2. Mapping an offline-trained DBN onto an event-driven SNN suitable for hardware implementation|N|
-|Rui Graca, Brian McReynolds, Tobi Delbruck.<br>[Optimal biasing and physical limits of DVS event noise](https://doi.org/10.48550/arXiv.2304.04019).<br>2023 International Image Sensor Workshop.[PDF](https://arxiv.org/pdf/2304.04019.pdf)|1.Theoretical limitation of DVS photoreceptor<br>2. How to bias DVS|N|
-|G. Haessig, D. Joubert, J. Haque, M. B. Milde, T. Delbruck and V. Gruev.<br>[PDAVIS: Bio-inspired Polarization Event Camera](https://ieeexplore.ieee.org/document/10209002).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3963-3972.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10209002)|1. Polarization event camera|N|
-|H. Mei, Z. Wang, X. Yang, X. Wei and T. Delbruck.<br>[Deep Polarization Reconstruction with PDAVIS Events](https://ieeexplore.ieee.org/document/10203401).<br>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, BC, Canada, 2023 pp. 22149-22158.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10203401)|1. Construct the first large-scale event-to-polarization dataset<br>2. Events-to-polarization network (E2P)|Y|
-|S. -C. Liu, C. Gao, K. Kim and T. Delbruck.<br>[Energy-efficient activity-driven computing architectures for edge intelligence](https://ieeexplore.ieee.org/document/10019443).<br>2022 International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2022, pp. 21.2.1-21.2.4.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10019443)|1. Review<br>2. Ways for TinyML on edge accelerators (hierarchical gating, sparsity, bit precision)|N|
-|S. Guo and T. Delbruck.<br>[Low Cost and Latency Event Camera Background Activity Denoising](https://ieeexplore.ieee.org/abstract/document/9720086).<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 1, pp. 785-795, 1 Jan. 2023.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720086)|1. Three new background activity noise filters<br>2. A novel framework to quantify denoising algorithms|N|
-|M. Liu and T. Delbruck.<br>[EDFLOW: Event Driven Optical Flow Camera With Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/abstract/document/9727106).<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 9, pp. 5776-5789, Sept. 2022.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9727106)|1. DVS hardware and custom software|Y|
-|C. Brandli, R. Berner, M. Yang, S. -C. Liu and T. Delbruck.<br>[A 240 × 180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://ieeexplore.ieee.org/abstract/document/6889103).<br>EEE Journal of Solid-State Circuits, vol. 49, no. 10, pp. 2333-2341, Oct. 2014.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6889103)|1. Combining DVS and active pixel sensor (APS) at pixel level, sharing PD |Y|
-|M. Yang, S. -C. Liu and T. Delbruck.<br>[A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding](https://ieeexplore.ieee.org/abstract/document/7128412).<br>IEEE Journal of Solid-State Circuits, vol. 50, no. 9, pp. 2149-2160, Sept. 2015.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7128412)|1. A new low-noise high-gain DVS pixel for improved temporal contrast sensitivity|N|
-|S. -C. Liu, B. Rueckauer, E. Ceolini.<br>[Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms](https://ieeexplore.ieee.org/abstract/document/8887562).<br>EEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, Nov. 2019.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
-|H. Liu, D. P. Moeys, G. Das, D. Neil, S. -C. Liu and T. Delbrück.<br>[Combined frame- and event-based detection and tracking](https://ieeexplore.ieee.org/abstract/document/7539103).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539103)||
-|D. Neil and S. -C. Liu.<br>[Effective sensor fusion with event-based sensors and deep network architectures](https://ieeexplore.ieee.org/abstract/document/7539039).<br>2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2282-2285.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8887562)||
-|.<br>[](https://personalpages.manchester.ac.uk/staff/p.dudek/papers/carey-vlsi2013.pdf).<br>[PDF]()||
+<h1>Sensing With Computing</h1>  
+<p><em>by Sense Lab</em></p>
 
+</div>
 
-Piotr Dudek, University of Manchester
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|S.J.Carey, A.Lopich, D.R.W.Barr, B.Wang and P.Dudek.<br>[A 100,000 fps Vision Sensor with Embedded 535GOPS/W 256x256 SIMD Processor Array ](https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/).<br>VLSI Circuits Symposium 2013, pp.C182-C183, June 2013.[PDF](https://personalpages.manchester.ac.uk/staff/p.dudek/papers/carey-vlsi2013.pdf)|1. Vision chip<br>2. Pixel-parallel mixed-signal processing|Y|
-|Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein.<br>[PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors](https://arxiv.org/abs/2304.05440).<br>arXiv:2304.05440[PDF](https://arxiv.org/pdf/2304.05440.pdf)|1. PixelRNN, that encodes spatio-temporal features on the sensor using purely binary operations<br>2. Based on SCAMP-5 sensor-processor platform|Y|
-|Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.<br>[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full).<br>Front. Neurosci. 16:909448.[PDF](https://www.ruirangerfan.com/pdf/fnins2022_liu.pdf)|1. Binarized CNNs<br>2. Model swapping paradigm|Y|
-|Piotr Dudek et al.<br>[Sensor-level computer vision with pixel processor arrays for agile robots](https://www.science.org/doi/full/10.1126/scirobotics.abl7755).<br>Sci. Robot.7,eabl7755(2022).[PDF](https://www.science.org/doi/epdf/10.1126/scirobotics.abl7755)||Y|
-|J. N. P. Martel, L. K. Müller, S. J. Carey, P. Dudek and G. Wetzstein.<br>[Neural Sensors: Learning Pixel Exposures for HDR Imaging and Video Compressive Sensing With Programmable Sensors](https://ieeexplore.ieee.org/abstract/document/9064896).<br>EEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42, no. 7, pp. 1642-1653, 1 July 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9064896)||
-|Bose, L., Dudek, P., Chen, J., Carey, S.J., Mayol-Cuevas, W.W..<br>[Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays](https://dl.acm.org/doi/abs/10.1007/978-3-030-58526-6_29).<br>In Computer Vision – ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXIX. Springer-Verlag, Berlin, Heidelberg, 488–503.[PDF](https://arxiv.org/pdf/2004.12525.pdf)||
-|L. Bose, P. Dudek, J. Chen, S. Carey and W. Mayol-Cuevas.<br>[A Camera That CNNs: Towards Embedded Neural Networks on Pixel Processor Arrays](https://www.computer.org/csdl/proceedings-article/iccv/2019/480300b335/1hQqrJxzWBa).<br>2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019 pp. 1335-1344.[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bose_A_Camera_That_CNNs_Towards_Embedded_Neural_Networks_on_Pixel_ICCV_2019_paper.pdf)||
-|Chen, J., Carey, S. J., & Dudek, P..<br>[Scamp5d Vision System and Development Framework](https://dl.acm.org/doi/abs/10.1145/3243394.3243698).<br>In Proceedings of the 12th International Conference on Distributed Smart Cameras, ICDSC 2018 Article a23 Association for Computing Machinery.[PDF](https://personalpages.manchester.ac.uk/staff/p.dudek/papers/chen-icdsc2018.pdf)||
-|.<br>[]().<br>[PDF]()||
+---
 
-Ralph Etienne-Cummings, Johns Hopkins University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|Kwan, C., Chou, B., Yang, J. et al.<br>[Target tracking and classification using compressive sensing camera for SWIR videos](https://link.springer.com/article/10.1007/s11760-019-01506-4#citeas).<br>SIViP 13, 1629–1637 (2019).[PDF](https://link.springer.com/content/pdf/10.1007/s11760-019-01506-4.pdf)||
-|J. Zhang et al.<br>[A Closed-Loop, All-Electronic Pixel-Wise Adaptive Imaging System for High Dynamic Range Videography](https://ieeexplore.ieee.org/abstract/document/9016128).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 6, pp. 1803-1814, June 2020.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016128)||
-|.<br>[]().<br>[PDF]()||
+## 📘 About
 
-Chih-Cheng Hsieh, National Tsing Hua University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|M. -Y. Chiu et al.<br>[A Multimode Vision Sensor With Temporal Contrast Pixel and Column-Parallel Local Binary Pattern Extraction for Dynamic Depth Sensing Using Stereo Vision](https://ieeexplore.ieee.org/abstract/document/10185151).<br>EEE Journal of Solid-State Circuits, vol. 58, no. 10, pp. 2767-2777, Oct. 2023[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185151)||
-|T. -H. Hsu et al.<br>[A 0.8 V Intelligent Vision Sensor With Tiny Convolutional Neural Network and Programmable Weights Using Mixed-Mode Processing-in-Sensor Technique for Image Classification](https://ieeexplore.ieee.org/abstract/document/10164007).<br>IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3266-3274, Nov. 2023.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164007)||
-|T. -H. Hsu et al.<br>[A 0.8 V Multimode Vision Sensor for Motion and Saliency Detection With Ping-Pong PWM Pixel](https://ieeexplore.ieee.org/abstract/document/9425497).<br>IEEE Journal of Solid-State Circuits, vol. 56, no. 8, pp. 2516-2524, Aug. 2021[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425497)||
-|T. -H. Hsu et al.<br>[A 0.5-V Real-Time Computational CMOS Image Sensor With Programmable Kernel for Feature Extraction](https://ieeexplore.ieee.org/abstract/document/9250500).<br>IEEE Journal of Solid-State Circuits, vol. 56, no. 5, pp. 1588-1596, May 2021[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9250500)||
-|Y. -S. Chen, T. -H. Hsu, G. -C. Chen, C. -W. Chen and C. -C. Hsieh.<br>[A Monolithic Optical Encoder using CMOS Image Sensor with Background Light Cancellation](https://ieeexplore.ieee.org/abstract/document/9181039).<br>2020 IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, 2020, pp. 1-4.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181039)||
-|.<br>[]().<br>[PDF]()||
+This is a paper list of **Sensing_with_Computing** research.  
 
 
 
-Roman Genov, University of Toronto
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| A. Nilchi, J. Aziz and R. Genov.<br>[Focal-Plane Algorithmically-Multiplying CMOS Computational Image Sensor](https://ieeexplore.ieee.org/document/4982878).<br>IEEE Journal of Solid-State Circuits, vol. 44, no. 6, pp. 1829-1839, June 2009.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4982878)||
-| D. Ho, G. Gulak and R. Genov.<br>[CMOS 3-T digital pixel sensor with in-pixel shared comparator](https://ieeexplore.ieee.org/document/6272197).<br>2012 IEEE International Symposium on Circuits and Systems (ISCAS), Seoul, Korea (South), 2012, pp. 930-933.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6272197)||
-| R. Gulve et al..<br>[39 000-Subexposures/s Dual-ADC CMOS Image Sensor With Dual-Tap Coded-Exposure Pixels for Single-Shot HDR and 3-D Computational Imaging](https://ieeexplore.ieee.org/document/10143350/authors#authors).<br>IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3150-3163, Nov. 2023.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10143350)||
-| N. Sarhangnejad et al..<br>[Dual-Tap Computational Photography Image Sensor With Per-Pixel Pipelined Digital Memory for Intra-Frame Coded Multi-Exposure](https://ieeexplore.ieee.org/document/8844261).<br>IEEE Journal of Solid-State Circuits, vol. 54, no. 11, pp. 3191-3202, Nov. 2019.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8844261)||
-| A. Nilchi, J. Aziz and R. Genov.<br>[Focal-Plane Algorithmically-Multiplying CMOS Computational Image Sensor](https://ieeexplore.ieee.org/document/4982878).<br>IEEE Journal of Solid-State Circuits, vol. 44, no. 6, pp. 1829-1839, June 2009.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4982878)||
-|.<br>[]().<br>[PDF]()||
+---
 
-Robert LiKamWa, Arizona State University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| R. LiKamWa, Y. Hou, Y. Gao, M. Polansky and L. Zhong.<br>[RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision](https://ieeexplore.ieee.org/document/7551398).<br>2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA), Seoul, Korea (South), 2016, pp. 255-266.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7551398)||
-| R. Likamwa, J. Hu, V. Kodukula and Y. Liu.<br>[Adaptive Resolution-Based Tradeoffs for Energy-Efficient Visual Computing Systems](https://ieeexplore.ieee.org/document/9354109).<br>IEEE Pervasive Computing, vol. 20, no. 2, pp. 18-26, 1 April-June 2021.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9354109)||
-|.<br>[]().<br>[PDF]()||
- 
-Chiao Liu, Meta, Redmond, WA
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| S. Chen et al..<br>[A 3.96μm, 124dB Dynamic Range, 6.2mW Stacked Digital Pixel Sensor with Monochrome and Near-Infrared Dual-Channel Global Shutter Capture](https://ieeexplore.ieee.org/document/10185291).<br>2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Kyoto, Japan, 2023, pp. 1-2.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185291)||
-| C. Liu, S. Chen, T. -H. Tsai, B. de Salvo and J. Gomez.<br>[Augmented Reality - The Next Frontier of Image Sensors and Compute Systems](https://ieeexplore.ieee.org/document/9731584).<br>2022 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, 2022, pp. 426-428.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731584)||
-| X. Dong et al..<br>[SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems](https://ieeexplore.ieee.org/document/9879512).<br>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 12549-12559.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879512)||
-| R. Ikeno et al..<br>[A 4.6-μm, 127-dB Dynamic Range, Ultra-Low Power Stacked Digital Pixel Sensor With Overlapped Triple Quantization](https://ieeexplore.ieee.org/document/9684032).<br>IEEE Transactions on Electron Devices, vol. 69, no. 6, pp. 2943-2950, June 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9684032)||
-| C. Liu, A. Berkovich, S. Chen, H. Reyserhove, S. S. Sarwar and T. -H. Tsai.<br>[Intelligent Vision Systems – Bringing Human-Machine Interface to AR/VR](https://ieeexplore.ieee.org/document/8993566).<br>2019 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2019, pp. 10.5.1-10.5.4.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8993566)||
-|T. -H. Hsu and C. -C. Hsieh.<br>[A CMOS imaging platform using single photon avalanche diode array in standard technology](https://ieeexplore.ieee.org/abstract/document/8234040).<br>2017 IEEE SENSORS, Glasgow, UK, 2017, pp. 1-3.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8234040)||
-|A. Y. -C. Chiou, S. -E. Hsieh, Y. -Q. Pan, C. -C. Kuo and C. -C. Hsieh.<br>[An integrated CMOS optical sensing chip for multiple bio-signal detections](https://ieeexplore.ieee.org/abstract/document/7844169).<br>2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), Toyama, Japan, 2016, pp. 197-200[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844169)||
-|C. Yin, C. -F. Chiu and C. -C. Hsieh.<br>[A 0.5 V, 14.28-kframes/s, 96.7-dB Smart Image Sensor With Array-Level Image Signal Processing for IoT Applications](https://ieeexplore.ieee.org/abstract/document/7403939).<br>IEEE Transactions on Electron Devices, vol. 63, no. 3, pp. 1134-1140, March 2016[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7403939)||
-|.<br>[]().<br>[PDF]()||
- 
-Fei Qiao, Tsinghua University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| Z. Li, H. Xu, Z. Liu, L. Luo, Q. Wei and F. Qiao.<br>[A 2.17μW@120fps Ultra-Low-Power Dual-Mode CMOS Image Sensor with Senputing Architecture](https://ieeexplore.ieee.org/document/9712591).<br>2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan, 2022, pp. 92-93.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712591)|1.Sensor level .<br>2. CMOS Image Sensor (CIS) chip based on Senputing architecture|N|
-| H. Xu et al..<br>[Senputing: An Ultra-Low-Power Always-On Vision Perception Chip Featuring the Deep Fusion of Sensing and Computing](https://ieeexplore.ieee.org/document/9464962).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 1, pp. 232-243, Jan. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9464962)|1.Sensor level .<br>2. Novel processing-in-sensor design for always-on hierarchical vision perception|Y|
-| H. Xu et al..<br>[A 4.57 μW@120fps Vision System of Sensing with Computing for BNN-Based Perception Applications](https://ieeexplore.ieee.org/document/9634759).<br>2021 IEEE Asian Solid-State Circuits Conference (A-SSCC), Busan, Korea, Republic of, 2021, pp. 1-3.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9634759)|1.Pixel level .<br>2. Senputing chip achieves BNN 1st-layer convolution in analog domain|Y|
-| M. Nazhamaiti et al..<br>[NS-MD: Near-Sensor Motion Detection With Energy Harvesting Image Sensor for Always-On Visual Perception](https://ieeexplore.ieee.org/document/9449866).<br>IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 9, pp. 3078-3082, Sept. 2021.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449866)|1. Architecture level .<br>2.Near-sensor work .<br>3.Reconfigurable pixel structures can harvest solar energy from the focal plane and conduct motion detection simultaneously .<br>4.The near-sensor motion detection architecture combines analog-domain edge detection and digital-domain frame differencing technique|Y|
-| H. Xu et al..<br>[MACSen: A Processing-In-Sensor Architecture Integrating MAC Operations Into Image Sensor for Ultra-Low-Power BNN-Based Intelligent Visual Perception](https://ieeexplore.ieee.org/document/9164893).<br>IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 2, pp. 627-631, Feb. 2021.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9164893)|1.Architecture level .<br>2.Novel PIS architecture integrating sensing and MAC operations|N|
-| H. Xu et al..<br>[Utilizing Direct Photocurrent Computation and 2D Kernel Scheduling to Improve In-Sensor-Processing Efficiency](https://ieeexplore.ieee.org/document/9218622).<br>2020 57th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2020, pp. 1-6.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218622)|1.Architecture level <br>2-1.In-sensor-processing architecture <br>2-2.Utilize photocurrents in the convolution operations directly .<br>2-3.Adaptive kernel mapping and scheduling method|Y|
-| Z. Liu et al..<br>[NS-CIM: A Current-Mode Computation-in-Memory Architecture Enabling Near-Sensor Processing for Intelligent IoT Vision Nodes](https://ieeexplore.ieee.org/document/9061142).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 9, pp. 2909-2922, Sept. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9061142)|1.Architecture level .<br>2.A combined architecture cooperating sensor with CIM macro .<br>3.Current-mode computing technique .<br>4.Non-idealities analysis of mixed-signal circuits with a co-design scheme to mitigate the imperfections|Y|
-| Z. Chen et al..<br>[Processing Near Sensor Architecture in Mixed-Signal Domain With CMOS Image Sensor of Convolutional-Kernel-Readout Method](https://ieeexplore.ieee.org/document/8835152).<br>IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 2, pp. 389-400, Feb. 2020.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835152)|1. architecture level .<br>2. Near sensor work .<br> 3.Mixed-signal domain .<br>4.Ealuation of the fault-tolerance of the system to circuit noise and the device imperfection|N|
-| Chen, Y., Nazhamaiti, M., Xu, H. et al.<br>[All-analog photoelectronic chip for high-speed vision tasks](https://www.nature.com/articles/s41586-023-06558-8).<br>Nature 623, 48–57 (2023). [PDF](https://www.nature.com/articles/s41586-023-06558-8.pdf)|All-analog chip combining electronic and light computing|Y|
-|H. Xu , F. Qiao et al.<br> [A 5.9μW Ultra-Low-Power Dual-Resolution CIS Chip of Sensing-with-Computing for Always-on Intelligent Visual Devices](https://ieeexplore.ieee.org/document/9401338).<br>_2021 IEEE International Symposium on Circuits and Systems (ISCAS)_, Daegu, Korea, 2021, pp. 1-5.<br>[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401338)|Mixed-signal|
-|T. Ma _et al_.<br>[An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications](https://ieeexplore.ieee.org/document/9012906)<br>_2019 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)_, Chengdu, China, 2019, pp. 150-155.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012906)|All analog<br>Current-mode computation|
-|Z. Liu _et al_.<br>[A 1.8mW Perception Chip with Near-Sensor Processing Scheme for Low-Power AIoT Applications](https://ieeexplore.ieee.org/document/8839347).<br>_2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)_, Miami, FL, USA, 2019, pp. 447-452.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8839347)||
-|Z. Fan _et al_..<br>[ASP-SIFT: Using Analog Signal Processing Architecture to Accelerate Keypoint Detection of SIFT Algorithm,](https://ieeexplore.ieee.org/document/8836114).<br>_IEEE Transactions on Very Large Scale Integration (VLSI) Systems_, vol. 28, no. 1, pp. 198-211, Jan. 2020,[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836114)|real-time SIFT implementation|
-|Yang, X., Liu, Z., Tang, K. _et al._.<br>[Breaking the energy-efficiency barriers for smart sensing applications with “Sensing with Computing” architectures.](https://link.springer.com/article/10.1007/s11432-023-3760-8).<br>_Sci. China Inf. Sci._  **66**, 200409 (2023).[PDF](https://link.springer.com/content/pdf/10.1007/s11432-023-3760-8.pdf)|Review of smart sensing systems with “Sensing with Computing” architectures.|
-|Maimaiti Nazhamaiti, Haijin Su et al.<br>[In-situ self-powered intelligent vision system with inference-adaptive energy scheduling for BNN-based always-on perception](https://dl.acm.org/doi/abs/10.1145/3489517.3530554).<br>In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC '22). Association for Computing Machinery, New York, NY, USA, 913–918.[PDF](https://dl.acm.org/doi/pdf/10.1145/3489517.3530554)||
-|.<br>[]().<br>[PDF]()||
+## 🔖 List of Papers
 
-Xuan Zhang, Northeastern University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| O. Bell, C. Gill and X. Zhang.<br>[Hardware Acceleration with Zero-Copy Memory Management for Heterogeneous Computing](https://ieeexplore.ieee.org/document/10296291).<br>2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Niigata, Japan, 2023, pp. 28-37.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296291)||
-| L. Ke et al..<br>[Near-Memory Processing in Action: Accelerating Personalized Recommendation With AxDIMM](https://ieeexplore.ieee.org/document/9489313).<br>IEEE Micro, vol. 42, no. 1, pp. 116-127, 1 Jan.-Feb. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9489313)||
-| W. Cao, Y. Zhao, A. Boloor, Y. Han, X. Zhang and L. Jiang.<br>[Neural-PIM: Efficient Processing-In-Memory With Neural Approximation of Peripherals](https://ieeexplore.ieee.org/document/9591330).<br>IEEE Transactions on Computers, vol. 71, no. 9, pp. 2142-2155, 1 Sept. 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591330)||
-| C. Zhao, X. Zhang and R. D. Chamberlain.<br>[Executing Data Integration Effectively and Efficiently Near the Memory](https://ieeexplore.ieee.org/document/9391688).<br>IEEE Design & Test, vol. 39, no. 2, pp. 65-73, April 2022.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9391688)|1.|
-| L. Ke et al..<br>[RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing](https://ieeexplore.ieee.org/document/9138955).<br>2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020, pp. 790-803.[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138955)| |
-|Tianrui Ma, Adith Jagadish Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, and Xuan Zhang.<br>[LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/abs/10.1145/3579371.3589089).<br>In Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA '23). Association for Computing Machinery, New York, NY, USA, Article 54, 1–14.[PDF](https://dl.acm.org/doi/pdf/10.1145/3579371.3589089)|1.Algorithm level .<br>2. An in-sensor processing paradigm "learned compressive acquisition" (LeCA) .<br>3.The LeCA framework exploits the joint learning of a sensor autoencoder structure with the downstream CV algorithms to effectively compress the original image into low-dimensional features with adaptive bit depth .<br>4.Column-parallel analog-domain processing directly inside the image sensor to perform the compressive encoding of the raw image|Y|
-|.<br>[]().<br>[PDF]()||
+### 📑 Review
 
-Houk Jang, Harvard University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| Jang, H., Hinton, H., Jung, WB. et al.<br>[In-sensor optoelectronic computing using electrostatically doped silicon](https://www.nature.com/articles/s41928-022-00819-6).<br>Nat Electron 5, 519–525.[PDF](https://www.nature.com/articles/s41928-022-00819-6.pdf)|The theoretically analyzed temporal resolution limit of silicon image sensors is mainly governed by mixing of charges with different travel times caused by the distribution of penetration depth of light.|Y|
-|.<br>[]().<br>[PDF]()||
+- **[Near-sensor and in-sensor computing.]** — Nat Electron 3, 664–671 (2020).  — Zhou, F., Chai, Y.
+  📝 **Comments:** Review from three views: low-level processing, high-level processing and integration techniques.  
+  🔗 [Link](https://doi.org/10.1038/s41928-020-00501-9)
+  
+  
+- **[In-Sensor Computing: Materials, Devices, and Integration Technologies. ]** — Adv. Mater. 2023, 35, 2203830.— T. Wan, B. Shao, S. Ma, Y. Zhou, Q. Li, Y. Chai. 
+  📝 **Comments:** Review for device level, array level and integration technologies 
+  🔗 [Link](https://doi.org/10.1002/adma.202203830)
+  
+ - **[Event-Based Vision: A Survey.]** —  IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 1, pp. 154-180, 1 Jan. 2022.— G. Gallego et al.  
+   📝 **Comments:** Event camera review
+  🔗 [Link](https://ieeexplore.ieee.org/document/9138762)
 
-Takeharu Goji Etoh, Osaka University
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-| Etoh, Takeharu & Nguyen, Anh Quang & Kamakura, Yoshinari & Shimonomura, Kazuhiro & Le Thi, Yen & Mori, Nobuya.<br>[The Theoretical Highest Frame Rate of Silicon Image Sensors](https://www.researchgate.net/publication/314127367_The_Theoretical_Highest_Frame_Rate_of_Silicon_Image_Sensors).<br>Sensors. 17. 483. 10.3390/s17030483.[PDF](https://res.mdpi.com/sensors/sensors-17-00483/article_deploy/sensors-17-00483-v2.pdf)|1.The theoretically analyzed temporal resolution limit of silicon image sensors is mainly governed by mixing of charges with different travel times caused by the distribution of penetration depth of light. <br>2.The theoretical highest frame rate is 90.1 Gfps (about 1011 fps).|Y|
-|.<br>[]().<br>[PDF]()||
+ - **[Energy-efficient activity-driven computing architectures for edge intelligence]**— 2022 International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2022, pp. 21.2.1-21.2.4. — S. -C. Liu, C. Gao, K. Kim and T. Delbruck
+   📝 **Comments:** Ways for TinyML on edge accelerators (hierarchical gating, sparsity, bit precision)
+  🔗 [Link](https://ieeexplore.ieee.org/document/10019443) 
 
-Rui P. Martins, University of Macau
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|J. Wu _et al_.<br>[A Multimode CMOS Vision Sensor With On-Chip Motion Direction Detection and Simultaneous Energy Harvesting Capabilities,](https://ieeexplore.ieee.org/document/9789972).<br>_IEEE Sensors Journal_, vol. 22, no. 13, pp. 12808-12819, 1 July1, 2022, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9789972)|Energy havesting capabilities|
-|.<br>[]().<br>[PDF]()||
 
-Hoi-Jun Yoo, Korea Advanced Institute of Science and Technology
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|K. Bong, S. Choi, C. Kim, D. Han and H. -J. Yoo,.<br>[A Low-Power Convolutional Neural Network Face Recognition Processor and a CIS Integrated With Always-on Face Detector](https://ieeexplore.ieee.org/document/8197364).<br>_IEEE Journal of Solid-State Circuits_, vol. 53, no. 1, pp. 115-123, Jan. 2018. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8197364)|CIS+CNNP,<br>Analog–digital hybrid haar-like|
-|J. -H. Kim, C. Kim, K. Kim and H. -J. Yoo.<br>[An Ultra-Low-Power Analog-Digital Hybrid CNN Face Recognition Processor Integrated with a CIS for Always-on Mobile Devices](https://ieeexplore.ieee.org/document/8702698).<br>_2019 IEEE International Symposium on Circuits and Systems (ISCAS)_, Sapporo, Japan, 2019, pp. 1-5. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702698)|Analog-digital hybrid|
-|.<br>[]().<br>[PDF]()||
+ - **[Breaking the energy-efficiency barriers for smart sensing applications with “Sensing with Computing” architectures.]**— _Sci. China Inf. Sci._  **66**, 200409 (2023).  — Yang, X., Liu, Z., Tang, K. Fei Qiao , _et al._.
+   📝 **Comments:** Review of smart sensing systems with “Sensing with Computing” architectures including circuit level and co-design methodologies etc. 
+  🔗 [Link](https://link.springer.com/article/10.1007/s11432-023-3760-8) 
 
-Hun Seok Kim & Dennis Sylvester, University of Michigan
-|Paper|Comment|Hightlight|
-|:---|:---|:---:|
-|H. An _et al_.<br>[An Ultra-Low-Power Image Signal Processor for Hierarchical Image Recognition With Deep Neural Networks](https://ieeexplore.ieee.org/document/9293122).<br>_IEEE Journal of Solid-State Circuits_, vol. 56, no. 4, pp. 1071-1081, April 2021.[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9293122)|1. In temporal and spatial dimensions<BR> 2. DNN use deep compression of all on-chip weights|
-|M. Cho _et al_.<br>[17.2 A 142nW Voice and Acoustic Activity Detection Chip for mm-Scale Sensor Nodes Using Time-Interleaved Mixer-Based Frequency Scanning](https://ieeexplore.ieee.org/document/8662540).<br>_2019 IEEE International Solid-State Circuits Conference - (ISSCC)_, San Francisco, CA, USA, 2019, pp. 278-280. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662540)|a neural network-based acoustic sensing system for both VAD and non-voice event detection|
+
+
+---
+
+### 🔬 Research
+
+####  💡 Near-Sensor Computing
+
+
+ - **[NS-MD: Near-Sensor Motion Detection With Energy Harvesting Image Sensor for Always-On Visual Perception]**— IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 9, pp. 3078-3082, Sept. 2021 — M. Nazhamaiti, F. Qiao et al..
+   📝 **Comments:** Architecture level; Reconfigurable pixel structures can harvest solar energy from the focal plane and conduct motion detection simultaneously ; The near-sensor motion detection architecture combines analog-domain edge detection and digital-domain frame differencing technique
+  🔗 [Link](https://ieeexplore.ieee.org/document/9449866) 
+
+
+ - **[NS-CIM: A Current-Mode Computation-in-Memory Architecture Enabling Near-Sensor Processing for Intelligent IoT Vision Nodes]**— IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 9, pp. 2909-2922, Sept. 2020 — Z. Liu, F. Qiao et al.. 
+   📝 **Comments:** A combined architecture cooperating sensor with CIM macro; Current-mode computing technique;  Non-idealities analysis of mixed-signal circuits with a co-design scheme to mitigate the imperfections
+  🔗 [Link](https://ieeexplore.ieee.org/document/9061142) 
+
+
+ - **[Processing Near Sensor Architecture in Mixed-Signal Domain With CMOS Image Sensor of Convolutional-Kernel-Readout Method]**— IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 2, pp. 389-400, Feb. 2020. — Z. Chen, F. Qiao et al.. 
+   📝 **Comments:** Mixed-signal domain; Ealuation of the fault-tolerance of the system to circuit noise and the device imperfection
+  🔗 [Link](https://ieeexplore.ieee.org/document/8835152)
+  
+
+ - **[An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications]**— _2019 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)_, Chengdu, China, 2019, pp. 150-155 — T. Ma _et al_. 
+   📝 **Comments:**  All analog current-mode computation
+  🔗 [Link](https://ieeexplore.ieee.org/document/9012906)
+  
+  
+ - **[A 1.8mW Perception Chip with Near-Sensor Processing Scheme for Low-Power AIoT Applications]**— _2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)_, Miami, FL, USA, 2019, pp. 447-452. — Z. Liu _et al_.
+   📝 **Comments:** Mixed signal.
+  🔗 [Link](https://ieeexplore.ieee.org/document/8839347).
+
+ - **[ASP-SIFT: Using Analog Signal Processing Architecture to Accelerate Keypoint Detection of SIFT Algorithm,]**— _IEEE Transactions on Very Large Scale Integration (VLSI) Systems_, vol. 28, no. 1, pp. 198-211, Jan. 2020 — Z. Fan _et al_..
+   📝 **Comments:** A Near-sensor accelerator of SIFT Algorithm
+  🔗 [Link](https://ieeexplore.ieee.org/document/8836114).  
+
+ - **Paper Name**— Publisher — Author 
+   📝 **Comments:** 
+  🔗 [Link](https://example.com)  
+
+
+
+
+
+
+#### 💡 In-Sensor Computing
+
+
+ - **[A 2.17μW@120fps Ultra-Low-Power Dual-Mode CMOS Image Sensor with Senputing Architecture]**— 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan, 2022, pp. 92-93. — Z. Li, H. Xu, Z. Liu, L. Luo, Q. Wei and F. Qiao. 
+    📝 **Comments:** Sensor level，CMOS Image Sensor (CIS) chip based on Senputing architecture
+  🔗 [Link](https://ieeexplore.ieee.org/document/9712591)
+
+
+ - **[Senputing: An Ultra-Low-Power Always-On Vision Perception Chip Featuring the Deep Fusion of Sensing and Computing]**— IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 1, pp. 232-243, Jan. 2022 — H. Xu, F. Qiao et al..
+   📝 **Comments:** Sensor level, Novel processing-in-sensor design for always-on hierarchical vision perception
+  🔗 [Link](https://ieeexplore.ieee.org/document/9464962)
+
+
+
+ - **[A 4.57 μW@120fps Vision System of Sensing with Computing for BNN-Based Perception Applications]**— 2021 IEEE Asian Solid-State Circuits Conference (A-SSCC), Busan, Korea, Republic of, 2021, pp. 1-3 — H. Xu, F. Qiao et al..
+ 📝 **Comments:** Using both InSensor and NearSensor architecture. (DPCE array and CIM)
+  🔗 [Link](https://ieeexplore.ieee.org/document/9634759) 
+
+
+ - **[MACSen: A Processing-In-Sensor Architecture Integrating MAC Operations Into Image Sensor for Ultra-Low-Power BNN-Based Intelligent Visual Perception]**—IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 2, pp. 627-631, Feb. 2021 — H. Xu, F. Qiao et al..
+   📝 **Comments:** Novel PIS architecture integrating sensing and MAC operations
+  🔗 [Link](https://ieeexplore.ieee.org/document/9164893) 
+
+
+ - **[Utilizing Direct Photocurrent Computation and 2D Kernel Scheduling to Improve In-Sensor-Processing Efficiency]**— 2020 57th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2020, pp. 1-6 — H. Xu, F. Qiao et al..
+ 📝 **Comments:**  Utilize photocurrents in the convolution operations directly; Adaptive kernel mapping and scheduling method
+  🔗 [Link](https://ieeexplore.ieee.org/document/9218622). 
+
+
+- **[A 5.9μW Ultra-Low-Power Dual-Resolution CIS Chip of Sensing-with-Computing for Always-on Intelligent Visual Devices]**— _2021 IEEE International Symposium on Circuits and Systems (ISCAS)_, Daegu, Korea, 2021, pp. 1-5. — H. Xu , F. Qiao et al. 
+ 📝 **Comments:**  Mixed-signal
+  🔗 [Link](https://ieeexplore.ieee.org/document/9401338).
+
+
+- **Paper Name**— Publisher — Author 
+ 📝 **Comments:** 
+  🔗 [Link](https://example.com)  
+
+
+
+
+
+#### 💡  Pre-Sensor Computing
+
+
+ - **[All-analog photoelectronic chip for high-speed vision tasks]**— Nature 623, 48–57 (2023). — Chen, Y., Nazhamaiti, M., Xu, H. et al. 
+ 📝 **Comments:** All-analog chip combining electronic and light computing;   Presensor with Insensor architecture co-design
+  🔗 [Link](https://www.nature.com/articles/s41586-023-06558-8)  
+
+
+ - **Paper Name**— Publisher — Author 
+ 📝 **Comments:** 
+  🔗 [Link](https://example.com)  
+
+
+
+
+
+#### 💡  Algorithm
+
+
+ - **Paper Name**— Publisher — Author  
+ 📝 **Comments:** 
+  🔗 [Link](https://example.com)  
+
 |S. Jeong _et al_.<br>[21.6 A 12nW always-on acoustic sensing and object recognition microsystem using frequency-domain feature extraction and SVM classification](https://ieeexplore.ieee.org/document/7870411).<br>_2017 IEEE International Solid-State Circuits Conference (ISSCC)_, San Francisco, CA, USA, 2017, pp. 362-363. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7870411)|acoustic sensing system|
 |.<br>[]().<br>[PDF]()||
 
