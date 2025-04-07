@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>Sensing With Computing</h1>  
@@ -46,6 +47,11 @@ This is a paper list of **Sensing_with_Computing** research.
     📝 **Comments:** Review of smart sensing systems with “Sensing with Computing” architectures including circuit level and co-design methodologies etc. 
   🔗 [Link](https://link.springer.com/article/10.1007/s11432-023-3760-8) 
 
+ - **[From Near-Sensor to In-Sensor: A State-of-the-Art Review of Embedded AI Vision Systems]**— _Sensors_  **2024**, _24_(16), 5446;  — Fabre, W.; Haroun, K.,  _et al._.
+
+    📝 **Comments:** Review of Near-Sensor and In-Sensor vision systems
+  🔗 [Link](https://www.mdpi.com/1424-8220/24/16/5446) 
+
 
 
 ---
@@ -89,7 +95,8 @@ This is a paper list of **Sensing_with_Computing** research.
    📝 **Comments:** A Near-sensor accelerator of SIFT Algorithm
   🔗 [Link](https://ieeexplore.ieee.org/document/8836114).  
 
- - **Paper Name**— Publisher — Author 
+
+ - **[Paper Name]**— Publisher — Author 
 
     📝 **Comments:** 
   🔗 [Link](https://example.com)  
@@ -139,10 +146,22 @@ This is a paper list of **Sensing_with_Computing** research.
   🔗 [Link](https://ieeexplore.ieee.org/document/9401338).
 
 
-- **Paper Name**— Publisher — Author 
+- **[Optoelectronic graded neurons for bioinspired in-sensor motion perception.]**— Nat. Nanotechnol. 18, 882–888 (2023). — Chen, J., Zhou, Z., Kim, B.J. et al. 
+
+  📝 **Comments:** MoS2 phototransistor ; Motion detection
+  🔗 [Link](https://www.nature.com/articles/s41565-023-01379-2)  
+
+- **[In-sensor Computing Devices for Bio-inspired Vision Sensors.]**— _2022 6th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)_, Oita, Japan, 2022, pp. 307-309 — F. Liao and Y. Chai 
+
+  📝 **Comments:** Optoelectronic RAM and MoS2 phototransistor; Image pre-processing
+  🔗 [Link](https://ieeexplore.ieee.org/document/9798059)  
+
+- **[Paper Name]**— Publisher — Author 
 
   📝 **Comments:** 
   🔗 [Link](https://example.com)  
+
+
 
 
 <br>
@@ -157,7 +176,7 @@ This is a paper list of **Sensing_with_Computing** research.
   🔗 [Link](https://www.nature.com/articles/s41586-023-06558-8)  
 
 
- - **Paper Name**— Publisher — Author 
+ - **[Paper Name]**— Publisher — Author 
  
    📝 **Comments:** 
   🔗 [Link](https://example.com)  
@@ -169,11 +188,10 @@ This is a paper list of **Sensing_with_Computing** research.
 #### 💡  Algorithm
 
 
- - **Paper Name**— Publisher — Author  
+ - **[Paper Name]**— Publisher — Author  
  
  📝 **Comments:** 
   🔗 [Link](https://example.com)  
-
 
 
 
