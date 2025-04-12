@@ -199,17 +199,17 @@ This is a paper list of **Sensing_with_Computing** research.
 
  - **[A Camera That CNNs: Towards Embedded Neural Networks on Pixel Processor Arrays]**— 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019 pp. 1335-1344 — L. Bose, P. Dudek, J. Chen, S. Carey and W. Mayol-Cuevas.  
  
- 📝 **Comments:** a first step towards embedding neural network processing capability directly onto the focal plane of a sensor
+   📝 **Comments:** a first step towards embedding neural network processing capability directly onto the focal plane of a sensor
   🔗 [Link](https://www.computer.org/csdl/proceedings-article/iccv/2019/480300b335/1hQqrJxzWBa)
 
  - **[Scamp5d Vision System and Development Framework]**— In Proceedings of the 12th International Conference on Distributed Smart Cameras, ICDSC 2018 Article a23 Association for Computing Machinery. — Chen, J., Carey, S. J., & Dudek, P…  
  
- 📝 **Comments:** sensor-level SIMD parallel processing
+   📝 **Comments:** sensor-level SIMD parallel processing
   🔗 [Link](https://dl.acm.org/doi/abs/10.1145/3243394.3243698)
 
 - **[Paper Name]**— Publisher — Author  
  
- 📝 **Comments:** 
+   📝 **Comments:** 
   🔗 [Link](https://example.com) 
 
 
@@ -241,7 +241,7 @@ This is a paper list of **Sensing_with_Computing** research.
 
  - **[Combined frame- and event-based detection and tracking]**— 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514  — H. Liu, D. P. Moeys, G. Das, D. Neil, S. -C. Liu and T. Delbrück.  
  
- 📝 **Comments:**  Object tracking algorithm for a moving platform using DAVIS
+   📝 **Comments:**  Object tracking algorithm for a moving platform using DAVIS
   🔗 [Link](https://ieeexplore.ieee.org/abstract/document/7539103).
 
 - **[PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors]**—arXiv:2304.05440 — Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein.
@@ -251,22 +251,22 @@ This is a paper list of **Sensing_with_Computing** research.
 
    - **[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays]**— Front. Neurosci. 16:909448 — Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.  
  
- 📝 **Comments:** Binarized CNNs  ; Model swapping paradigm
+   📝 **Comments:** Binarized CNNs  ; Model swapping paradigm
   🔗 [Link](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full)
 
 
  - **[Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays].**— In Computer Vision – ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXIX. Springer-Verlag, Berlin, Heidelberg, 488–503 — Bose, L., Dudek, P., Chen, J., Carey, S.J., Mayol-Cuevas, W.W…  
  
- 📝 **Comments:**  Software-hardware Co-design
+   📝 **Comments:**  Software-hardware Co-design
   🔗 [Link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58526-6_29)
 
  - **[Target tracking and classification using compressive sensing camera for SWIR videos]**— SIViP 13, 1629–1637 (2019) — Kwan, C., Chou, B., Yang, J. et al.
  
- 📝 **Comments:** a deep learning approach that directly performs target tracking and classification in the compressive measurement domain without any frame reconstruction
+   📝 **Comments:** a deep learning approach that directly performs target tracking and classification in the compressive measurement domain without any frame reconstruction
   🔗 [Link](https://link.springer.com/article/10.1007/s11760-019-01506-4)
 
  - **[Paper Name]**— Publisher — Author  
  
- 📝 **Comments:** 
+   📝 **Comments:** 
   🔗 [Link](https://example.com) 
 
