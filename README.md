@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>Sensing With Computing</h1>  
@@ -25,7 +24,6 @@ This is a paper list of **Sensing_with_Computing** research.
   📝 **Comments:** Review from three views: low-level processing, high-level processing and integration techniques.  
   🔗 [Link](https://doi.org/10.1038/s41928-020-00501-9)
   
-  
 - **[In-Sensor Computing: Materials, Devices, and Integration Technologies. ]** — Adv. Mater. 2023, 35, 2203830.— T. Wan, B. Shao, S. Ma, Y. Zhou, Q. Li, Y. Chai. 
 
   📝 **Comments:** Review for device level, array level and integration technologies 
@@ -51,6 +49,24 @@ This is a paper list of **Sensing_with_Computing** research.
 
     📝 **Comments:** Review of Near-Sensor and In-Sensor vision systems
   🔗 [Link](https://www.mdpi.com/1424-8220/24/16/5446) 
+
+- **[Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms]**— IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, Nov. 2019 — S. -C. Liu, B. Rueckauer, E. Ceolini. 
+
+    📝 **Comments:** Review on event sensors and related algorithm
+  🔗 [Link](https://ieeexplore.ieee.org/abstract/document/8887562)  
+
+
+- **[Sensor-level computer vision with pixel processor arrays for agile robots].**— Sci. Robot.7,eabl7755(2022). — Piotr Dudek et al.
+
+    📝 **Comments:**  Review the history of image sensing and processing hardware from the perspective of in-pixel compupting
+  🔗 [Link](https://www.science.org/doi/full/10.1126/scirobotics.abl7755)
+
+- **[Paper Name]**— Publisher — Author 
+
+    📝 **Comments:** 
+  🔗 [Link](https://example.com)  
+
+
 
 
 
@@ -96,10 +112,19 @@ This is a paper list of **Sensing_with_Computing** research.
   🔗 [Link](https://ieeexplore.ieee.org/document/8836114).  
 
 
- - **[Paper Name]**— Publisher — Author 
+ - **[Within-Camera Multilayer Perceptron DVS Denoising]**—2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 3933-3942 — A. Rios-Navarro et al. 
+
+    📝 **Comments:** Digital implementation
+  🔗 [Link](https://arxiv.org/abs/2304.07543)  
+
+
+- **[Paper Name]**— Publisher — Author 
 
     📝 **Comments:** 
   🔗 [Link](https://example.com)  
+
+
+
 
 
 
@@ -156,10 +181,37 @@ This is a paper list of **Sensing_with_Computing** research.
   📝 **Comments:** Optoelectronic RAM and MoS2 phototransistor; Image pre-processing
   🔗 [Link](https://ieeexplore.ieee.org/document/9798059)  
 
-- **[Paper Name]**— Publisher — Author 
+- **[A 240 × 180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor]**— IEEE Journal of Solid-State Circuits, vol. 49, no. 10, pp. 2333-2341, Oct. 2014. —C. Brandli, R. Berner, M. Yang, S. -C. Liu and T. Delbruck.
 
-  📝 **Comments:** 
-  🔗 [Link](https://example.com)  
+  📝 **Comments:** Combining DVS and active pixel sensor (APS) at pixel level, sharing PD
+  🔗 [Link](https://ieeexplore.ieee.org/abstract/document/6889103)  
+
+
+- **[A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding]**— IEEE Journal of Solid-State Circuits, vol. 50, no. 9, pp. 2149-2160, Sept. 2015 — M. Yang, S. -C. Liu and T. Delbruck. 
+
+  📝 **Comments:** A new low-noise high-gain DVS pixel for improved temporal contrast sensitivity
+  🔗 [Link](https://ieeexplore.ieee.org/abstract/document/7128412) 
+
+- **[A 100,000 fps Vision Sensor with Embedded 535GOPS/W 256x256 SIMD Processor Array]**— VLSI Circuits Symposium 2013, pp.C182-C183, June 2013 — S.J.Carey, A.Lopich, D.R.W.Barr, B.Wang and P.Dudek. 
+
+  📝 **Comments:**  Pixel-parallel mixed-signal processing
+  🔗 [Link](https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/)
+
+ - **[A Camera That CNNs: Towards Embedded Neural Networks on Pixel Processor Arrays]**— 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019 pp. 1335-1344 — L. Bose, P. Dudek, J. Chen, S. Carey and W. Mayol-Cuevas.  
+ 
+ 📝 **Comments:** a first step towards embedding neural network processing capability directly onto the focal plane of a sensor
+  🔗 [Link](https://www.computer.org/csdl/proceedings-article/iccv/2019/480300b335/1hQqrJxzWBa)
+
+ - **[Scamp5d Vision System and Development Framework]**— In Proceedings of the 12th International Conference on Distributed Smart Cameras, ICDSC 2018 Article a23 Association for Computing Machinery. — Chen, J., Carey, S. J., & Dudek, P…  
+ 
+ 📝 **Comments:** sensor-level SIMD parallel processing
+  🔗 [Link](https://dl.acm.org/doi/abs/10.1145/3243394.3243698)
+
+- **[Paper Name]**— Publisher — Author  
+ 
+ 📝 **Comments:** 
+  🔗 [Link](https://example.com) 
+
 
 
 
@@ -187,12 +239,34 @@ This is a paper list of **Sensing_with_Computing** research.
 
 #### 💡  Algorithm
 
+ - **[Combined frame- and event-based detection and tracking]**— 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514  — H. Liu, D. P. Moeys, G. Das, D. Neil, S. -C. Liu and T. Delbrück.  
+ 
+ 📝 **Comments:**  Object tracking algorithm for a moving platform using DAVIS
+  🔗 [Link](https://ieeexplore.ieee.org/abstract/document/7539103).
+
+- **[PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors]**—arXiv:2304.05440 — Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein.
+
+  📝 **Comments:** PixelRNN, that encodes spatio-temporal features on the sensor using purely binary operations  ; Based on SCAMP-5 sensor-processor platform; Software-hardware Co-design
+  🔗 [Link](https://arxiv.org/abs/2304.05440) 
+
+   - **[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays]**— Front. Neurosci. 16:909448 — Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.  
+ 
+ 📝 **Comments:** Binarized CNNs  ; Model swapping paradigm
+  🔗 [Link](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full)
+
+
+ - **[Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays].**— In Computer Vision – ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXIX. Springer-Verlag, Berlin, Heidelberg, 488–503 — Bose, L., Dudek, P., Chen, J., Carey, S.J., Mayol-Cuevas, W.W…  
+ 
+ 📝 **Comments:**  Software-hardware Co-design
+  🔗 [Link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58526-6_29)
+
+ - **[Target tracking and classification using compressive sensing camera for SWIR videos]**— SIViP 13, 1629–1637 (2019) — Kwan, C., Chou, B., Yang, J. et al.
+ 
+ 📝 **Comments:** a deep learning approach that directly performs target tracking and classification in the compressive measurement domain without any frame reconstruction
+  🔗 [Link](https://link.springer.com/article/10.1007/s11760-019-01506-4)
 
  - **[Paper Name]**— Publisher — Author  
  
  📝 **Comments:** 
-  🔗 [Link](https://example.com)  
-
-
-
+  🔗 [Link](https://example.com) 
 
