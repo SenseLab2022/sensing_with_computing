@@ -249,7 +249,7 @@ This is a paper list of **Sensing_with_Computing** research.
   📝 **Comments:** PixelRNN, that encodes spatio-temporal features on the sensor using purely binary operations  ; Based on SCAMP-5 sensor-processor platform; Software-hardware Co-design
   🔗 [Link](https://arxiv.org/abs/2304.05440) 
 
-   - **[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays]**— Front. Neurosci. 16:909448 — Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.  
+ - **[On-sensor binarized CNN inference with dynamic model swapping in pixel processor arrays]**— Front. Neurosci. 16:909448 — Liu Y, Bose L, Fan R, Dudek P and Mayol-Cuevas W.  
  
    📝 **Comments:** Binarized CNNs  ; Model swapping paradigm
   🔗 [Link](https://www.frontiersin.org/articles/10.3389/fnins.2022.909448/full)
