@@ -11,19 +11,19 @@
 
 This is a paper list of **Sensing_with_Computing** research.  
 
-<div align="center">
+<br>
+---
 
 ## 📚 Table of Contents
 
-- [Review](#-review)
-- [Research](#-research)
-  - [Near-Sensor Computing](#-near-sensor-computing)
-  - [In-Sensor Computing](#-in-sensor-computing)
-  - [Pre-Sensor Computing](#-pre-sensor-computing)
-  - [Algorithm](#-algorithm)
+- [***Review***](#-review)
+- [***Research***](#-research)
+  - [***Near-Sensor Computing***](#-near-sensor-computing)
+  - [***In-Sensor Computing***](#-in-sensor-computing)
+  - [***Pre-Sensor Computing***](#-pre-sensor-computing)
+  - [***Algorithm***](#-algorithm)
 
-</div>
-
+<br>
 ---
 
 ## 🔖 List of Papers
