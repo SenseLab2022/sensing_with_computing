@@ -11,9 +11,9 @@
 
 This is a paper list of **Sensing_with_Computing** research.  
 
+<div align="center">
 
-
-## Contents
+## 📚 Table of Contents
 
 - [Review](#-review)
 - [Research](#-research)
@@ -22,7 +22,7 @@ This is a paper list of **Sensing_with_Computing** research.
   - [Pre-Sensor Computing](#-pre-sensor-computing)
   - [Algorithm](#-algorithm)
 
-
+</div>
 
 ---
 
