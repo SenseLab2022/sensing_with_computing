@@ -62,7 +62,11 @@ This is a paper list of **Sensing_with_Computing** research.
 
 ### 🔬 Research
 
+<br>
+
 #### 💡 Near-Sensor Computing
+
+<br>
 
 - **[NS-MD: Near-Sensor Motion Detection With Energy Harvesting Image Sensor for Always-On Visual Perception]** — IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 9, pp. 3078-3082, Sept. 2021. — M. Nazhamaiti, F. Qiao _et al._  
   > 📝 **Comments:** Architecture level; Reconfigurable pixel structures can harvest solar energy from the focal plane and conduct motion detection simultaneously; The near-sensor motion detection architecture combines analog-domain edge detection and digital-domain frame differencing technique  
@@ -105,6 +109,8 @@ This is a paper list of **Sensing_with_Computing** research.
 
 
 #### 💡 In-Sensor Computing
+
+<br>
 
 - **[A 2.17μW@120fps Ultra-Low-Power Dual-Mode CMOS Image Sensor with Senputing Architecture]** — 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan, 2022, pp. 92-93. — Z. Li, H. Xu, Z. Liu, L. Luo, Q. Wei and F. Qiao  
   > 📝 **Comments:** Sensor level; CMOS Image Sensor (CIS) chip based on Senputing architecture  
@@ -167,6 +173,8 @@ This is a paper list of **Sensing_with_Computing** research.
 
 #### 💡 Pre-Sensor Computing
 
+<br>
+
 - **[All-analog photoelectronic chip for high-speed vision tasks]** — Nature 623, 48–57 (2023). — Chen, Y., Nazhamaiti, M., Xu, H. _et al._  
   > 📝 **Comments:** All-analog chip combining electronic and light computing; Pre-sensor with In-sensor architecture co-design  
   > 🔗 [Link](https://www.nature.com/articles/s41586-023-06558-8)
@@ -178,6 +186,8 @@ This is a paper list of **Sensing_with_Computing** research.
 <br>
 
 #### 💡 Algorithm
+
+<br>
 
 - **[Combined frame- and event-based detection and tracking]** — 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514. — H. Liu, D.P. Moeys, G. Das, D. Neil, S.-C. Liu, T. Delbrück  
   > 📝 **Comments:** Object tracking algorithm for a moving platform using DAVIS  
