@@ -63,7 +63,7 @@ This is a paper list of **Sensing_with_Computing** research.
   > 🔗 [Link](https://www.science.org/doi/full/10.1126/scirobotics.abl7755)
 
 - **[Beyond Traditional Computing Architecture: The evolution of All-in-one Devices]** — IEEE Electron Devices Reviews — Y. LIU, C. ZHAO, H. LI, W. YI, Z. WANG and H. TIAN  
-  > 📝 **Comments:**  computation within the sensing system including optical, pressure, gas, and auditory sensors
+  > 📝 **Comments:**  computation within the sensing system including optical, pressure, gas, and auditory sensors  
   > 🔗 [Link](https://ieeexplore.ieee.org/abstract/document/11141506)
 
 
