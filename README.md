@@ -341,6 +341,38 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**   
   > 🔗 [Link](https://doi.org/10.1109/ICCV.2019.00142)
 
+- **[A 30-fps 192×192 CMOS Image Sensor With Per-Frame Spatial-Temporal Coded Exposure for Compressive Focal-Stack Depth Sensing]** — IEEE JSSC, vol. 57, no. 6, pp. 1661-1672, Jun. 2022 — Y. Luo and S. Mirabbasi  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2022.3149916)
+
+- **[Dual-Port CMOS Image Sensor with Regression-Based HDR Flux-to-Digital Conversion and 80ns Rapid-Update Pixel-Wise Exposure Coding]** — ISSCC 2023, San Francisco, CA, pp. 104-106 — R. Gulve et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC42615.2023.10067708)
+
+- **[A Pathway to Near Tissue Computing through Processing-in-CTIA Pixels for Biomedical Applications]** — arXiv 2025 — Zihan Yin, Subhradip Chakraborty, Ankur Singh, Chengwei Zhou, Gourav Datta, Akhilesh Jaiswal  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://arxiv.org/abs/2503.16798)
+
+- **[SnapPix: Efficient-Coding–Inspired In-Sensor Compression for Edge Vision]** — arXiv 2025 — Weikai Lin, Tianrui Ma, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://arxiv.org/abs/2504.04535)
+
+- **[OASIS: Optimized Lightweight Autoencoder System for Distributed In-Sensor Computing]** — arXiv 2025 — Chengwei Zhou, Sreetama Sarkar, Yuming Li, Arnab Sanyal, Gourav Datta  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://arxiv.org/abs/2505.02256)
+
+- **[AJPEG: A 26.4-pJ/pixel, 252-fps, 128×128 Image Sensor with an In-Sensor Analog DCT Processor for Data Compression]** — CICC 2025, Boston, MA, pp. 1-3 — R. Wan, Y. Xu, D.-W. Jee and M. Seok  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/CICC63670.2025.10982958)
+
+- **[Design of a Leaky Integrate-and-Fire Model-Based SPAD Image Sensor for Efficient Edge Detection]** — IEEE TCSI: Regular Papers, 2025 — M. Jin and J. Lee  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/TCSI.2025.3571670)
+
+- **[A Two-Step Processing in CMOS Image Sensor Architecture]** — IEEE Sensors Journal, vol. 25, no. 14, pp. 27435-27444, Jul. 2025 — Y. Zhang, Q. Zhang and K. Huang  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSEN.2025.3577057)
+
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
