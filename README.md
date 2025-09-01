@@ -184,6 +184,10 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**   
   > 🔗 [Link](https://doi.org/10.1145/3716368.3735263)
 
+- **[RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision]** — 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA), Seoul, Korea, pp. 255-266 — R. LiKamWa, Y. Hou, Y. Gao, M. Polansky and L. Zhong  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISCA.2016.31)
+
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
@@ -253,9 +257,34 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:** Sensor-level SIMD parallel processing  
   > 🔗 [Link](https://dl.acm.org/doi/abs/10.1145/3243394.3243698)
 
+- **[All-analog photoelectronic chip for high-speed vision tasks]** — Nature 623, 48–57, 2023 — Y. Chen, M. Nazhamaiti, H. Xu et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1038/s41586-023-06558-8)
+
+- **[A 0.8 V Intelligent Vision Sensor With Tiny Convolutional Neural Network and Programmable Weights Using Mixed-Mode Processing-in-Sensor Technique for Image Classification]** — IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3266-3274, Nov. 2023 — T.-H. Hsu et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2023.3285734)
+
+- **[A 0.8 V Multimode Vision Sensor for Motion and Saliency Detection With Ping-Pong PWM Pixel]** — IEEE Journal of Solid-State Circuits, vol. 56, no. 8, pp. 2516-2524, Aug. 2021 — T.-H. Hsu et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2021.3075746)
+
+- **[A 3.96μm, 124dB Dynamic Range, 6.2mW Stacked Digital Pixel Sensor with Monochrome and Near-Infrared Dual-Channel Global Shutter Capture]** — 2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Kyoto, Japan, pp. 1-2 — S. Chen et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185291)
+
+- **[A 0.5-V Real-Time Computational CMOS Image Sensor With Programmable Kernel for Feature Extraction]** — IEEE Journal of Solid-State Circuits, vol. 56, no. 5, pp. 1588-1596, May 2021 — T.-H. Hsu et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2020.3034192)
+
+- **[Focal-Plane Algorithmically-Multiplying CMOS Computational Image Sensor]** — IEEE Journal of Solid-State Circuits, vol. 44, no. 6, pp. 1829-1839, Jun. 2009 — A. Nilchi, J. Aziz and R. Genov  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2009.2016693)
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
+
 
   
 <br>
