@@ -140,6 +140,51 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**   
   > 🔗 [Link](https://doi.org/10.1109/JSSC.2018.2869150)
 
+- **[A 0.62mW ultra-low-power convolutional-neural-network face-recognition processor and a CIS integrated with always-on haar-like face detector]** — 2017 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, pp. 248-249 — K. Bong, S. Choi, C. Kim, S. Kang, Y. Kim and H.-J. Yoo  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2017.7870354)
+
+- **[An Ultra-Low-Power Image Signal Processor for Hierarchical Image Recognition With Deep Neural Networks]** — IEEE Journal of Solid-State Circuits, vol. 56, no. 4, pp. 1071-1081, Apr. 2021 — H. An et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2020.3041858)
+
+- **[39 000-Subexposures/s Dual-ADC CMOS Image Sensor With Dual-Tap Coded-Exposure Pixels for Single-Shot HDR and 3-D Computational Imaging]** — IEEE Journal of Solid-State Circuits, vol. 58, no. 11, pp. 3150-3163, Nov. 2023 — R. Gulve et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2023.3275271)
+
+- **[A 1920×1080 25-Frames/s 2.4-TOPS/W Low-Power 6-D Vision Processor for Unified Optical Flow and Stereo Depth With Semi-Global Matching]** — IEEE Journal of Solid-State Circuits, vol. 54, no. 4, pp. 1048-1058, Apr. 2019 — Z. Li, J. Wang, D. Sylvester, D. Blaauw and H. S. Kim  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2018.2885559)
+
+- **[B-Face: 0.2 MW CNN-Based Face Recognition Processor with Face Alignment for Mobile User Identification]** — 2018 IEEE Symposium on VLSI Circuits, Honolulu, HI, USA, pp. 137-138 — S. Kang, J. Lee, C. Kim and H.-J. Yoo  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/VLSIC.2018.8502266)
+
+- **[Energy-Efficient Low-Noise CMOS Image Sensor with Capacitor Array-Assisted Charge-Injection SAR ADC for Motion-Triggered Low-Power IoT Applications]** — 2019 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, pp. 96-98 — K. D. Choo et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2019.8662306)
+
+- **[H3DAtten: Heterogeneous 3-D Integrated Hybrid Analog and Digital Compute-in-Memory Accelerator for Vision Transformer Self-Attention]** — IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 31, no. 10, pp. 1592-1602, Oct. 2023 — W. Li, M. Manley, J. Read, A. Kaul, M. S. Bakir and S. Yu  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/TVLSI.2023.3299509)
+
+- **[MANTIS: A Mixed-Signal Near-Sensor Convolutional Imager SoC Using Charge-Domain 4b-Weighted 5-to-84-TOPS/W MAC Operations for Feature Extraction and Region-of-Interest Detection]** — IEEE Journal of Solid-State Circuits, vol. 60, no. 3, pp. 934-948, Mar. 2025 — M. Lefebvre and D. Bol  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2024.3484766)
+
+- **[The Design of a Computer Vision Sensor Based on a Low-Power Edge Detection Circuit]** — Sensors, 25(10), 3219, 2025 — S. Lee, Y. C. Yun, S. M. Heu, K. H. Lee, S. J. Lee, K. Lee, J. Moon, H. Lim, T. Jang, M. Song, & S. Y. Kim  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.3390/s25103219)
+
+- **[A High-Resolution Solid-State LiDAR Sensor With Reconfigurable Histogramming Time-to-Digital Converter and Filter for Depth Refinement]** — IEEE Journal of Solid-State Circuits, 2025 — W. Roh et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2025.3571446)
+
+- **[SenGuard: A Novel Processing In-Sensor Method for Privacy-Enhanced Smart Imaging]** — Proceedings of the Great Lakes Symposium on VLSI 2025 (GLSVLSI '25), ACM, New York, USA, pp. 587–592 — Neeraj Solanki, Sepehr Tabrizchi, Ali Shafiee Sarvestani, Shaahin Angizi, and Arman Roohi  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1145/3716368.3735263)
+
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
