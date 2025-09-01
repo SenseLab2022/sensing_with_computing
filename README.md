@@ -112,6 +112,34 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:** Digital implementation  
   > 🔗 [Link](https://arxiv.org/abs/2304.07543)  
 
+- **[A Low-Power Convolutional Neural Network Face Recognition Processor and a CIS Integrated With Always-on Face Detector]** — IEEE Journal of Solid-State Circuits, vol. 53, no. 1, pp. 115-123, Jan. 2018 — K. Bong, S. Choi, C. Kim, D. Han and H.-J. Yoo  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2017.2767705)
+
+- **[4.9 A 1ms high-speed vision chip with 3D-stacked 140GOPS column-parallel PEs for spatio-temporal image processing]** — 2017 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, pp. 82-83 — T. Yamazaki et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2017.7870271)
+
+- **[243.3pJ/pixel bio-inspired time-stamp-based 2D optic flow sensor for artificial compound eyes]** — 2014 IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), San Francisco, CA, USA, pp. 126-127 — S. Park, J. Cho, K. Lee and E. Yoon  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2014.6757366)
+
+- **[An Ultra-Low-Power Analog-Digital Hybrid CNN Face Recognition Processor Integrated with a CIS for Always-on Mobile Devices]** — 2019 IEEE International Symposium on Circuits and Systems (ISCAS), Sapporo, Japan, pp. 1-5 — J.-H. Kim, C. Kim, K. Kim and H.-J. Yoo  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISCAS.2019.8702698)
+
+- **[An On-Chip Binary-Weight Convolution CMOS Image Sensor for Neural Networks]** — IEEE Transactions on Industrial Electronics, vol. 68, no. 8, pp. 7567-7576, Aug. 2021 — W.-T. Kim, H. Lee, J.-G. Kim and B.-G. Lee  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/TIE.2020.3001838)
+
+- **[A Data-Compressive 1.5/2.75-bit Log-Gradient QVGA Image Sensor With Multi-Scale Readout for Always-On Object Detection]** — IEEE Journal of Solid-State Circuits, vol. 54, no. 11, pp. 2932-2946, Nov. 2019 — C. Young, A. Omid-Zohoor, P. Lajevardi and B. Murmann  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2019.2937437)
+
+- **[An Always-On 3.8 μJ/86% CIFAR-10 Mixed-Signal Binary CNN Processor With All Memory on Chip in 28-nm CMOS]** — IEEE Journal of Solid-State Circuits, vol. 54, no. 1, pp. 158-172, Jan. 2019 — D. Bankman, L. Yang, B. Moons, M. Verhelst and B. Murmann  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2018.2869150)
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
