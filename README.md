@@ -281,6 +281,67 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**   
   > 🔗 [Link](https://doi.org/10.1109/JSSC.2009.2016693)
 
+- **[A 5.9μW Ultra-Low-Power Dual-Resolution CIS Chip of Sensing-with-Computing for Always-on Intelligent Visual Devices]** — ISCAS 2021, Daegu, Korea, pp. 1-5 — Z. Li, H. Xu, L. Luo, Q. Wei and F. Qiao  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISCAS51556.2021.9401338)
+
+- **[Envision: A 0.26-to-10TOPS/W subword-parallel dynamic-voltage-accuracy-frequency-scalable CNN processor in 28nm FDSOI]** — ISSCC 2017, San Francisco, CA, pp. 246-247 — B. Moons, R. Uytterhoeven, W. Dehaene and M. Verhelst  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2017.7870353)
+
+- **[A 4.6μm, 512×512, Ultra-Low Power Stacked Digital Pixel Sensor with Triple Quantization and 127dB Dynamic Range]** — IEDM 2020, San Francisco, CA, pp. 16.1.1-16.1.4 — C. Liu et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/IEDM13553.2020.9371913)
+
+- **[A 1/2.3inch 12.3Mpixel with On-Chip 4.97TOPS/W CNN Processor Back-Illuminated Stacked CMOS Image Sensor]** — ISSCC 2021, San Francisco, CA, pp. 154-156 — R. Eki et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC42613.2021.9365965)
+
+- **[A Stacked Global-Shutter CMOS Imager with SC-Type Hybrid-GS Pixel and Self-Knee Point Calibration Single Frame HDR and On-Chip Binarization Algorithm]** — ISSCC 2019, San Francisco, CA, pp. 94-96 — C. Xu et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2019.8662441)
+
+- **[A 0.2-to-3.6TOPS/W Programmable Convolutional Imager SoC with In-Sensor Current-Domain Ternary-Weighted MAC Operations]** — ISSCC 2021, San Francisco, CA, pp. 118-120 — M. Lefebvre, L. Moreau, R. Dekimpe and D. Bol  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC42613.2021.9365839)
+
+- **[A 21pJ/frame/pixel Imager and 34pJ/frame/pixel Image Processor for a Low-Vision Augmented-Reality Smart Contact Lens]** — ISSCC 2021, San Francisco, CA, pp. 482-484 — R. Singh, S. Bailey, P. Chang, A. Olyaei, M. Hekmat and R. Winoto  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC42613.2021.9365771)
+
+- **[A 3.0μW@5fps QQVGA Self-Controlled Wake-Up Imager with On-Chip Motion Detection, Auto-Exposure and Object Recognition]** — VLSI Circuits 2020, Honolulu, HI, pp. 1-2 — A. Verdant et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/VLSICircuits18222.2020.9162854)
+
+- **[A 5500FPS 85GOPS/W 3D Stacked BSI Vision Chip Based on Parallel in-Focal-Plane Acquisition and Processing]** — VLSI Circuits 2018, Honolulu, HI, pp. 245-246 — L. Millet et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/VLSIC.2018.8502290)
+
+- **[Dual-Tap Computational Photography Image Sensor With Per-Pixel Pipelined Digital Memory for Intra-Frame Coded Multi-Exposure]** — IEEE JSSC, vol. 54, no. 11, pp. 3191-3202, Nov. 2019 — N. Sarhangnejad et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/JSSC.2019.2932623)
+
+- **[A 4.6-μm, 127-dB Dynamic Range, Ultra-Low Power Stacked Digital Pixel Sensor With Overlapped Triple Quantization]** — IEEE TED, vol. 69, no. 6, pp. 2943-2950, Jun. 2022 — R. Ikeno et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/TED.2021.3121352)
+
+- **[A 0.5 V, 14.28-kframes/s, 96.7-dB Smart Image Sensor With Array-Level Image Signal Processing for IoT Applications]** — IEEE TED, vol. 63, no. 3, pp. 1134-1140, Mar. 2016 — C. Yin, C.-F. Chiu and C.-C. Hsieh  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/TED.2016.2521168)
+
+- **[A 1/2.3inch 20Mpixel 3-layer stacked CMOS Image Sensor with DRAM]** — ISSCC 2017, San Francisco, CA, pp. 76-77 — T. Haruta et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISSCC.2017.7870268)
+
+- **[A Low-Power 65/14nm Stacked CMOS Image Sensor]** — ISCAS 2020, Seville, Spain, pp. 1-4 — M. Kwon et al.  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ISCAS45731.2020.9180435)
+
+- **[A Camera That CNNs: Towards Embedded Neural Networks on Pixel Processor Arrays]** — ICCV 2019, Seoul, Korea, pp. 1335-1344 — L. Bose, P. Dudek, J. Chen, S. Carey and W. Mayol-Cuevas  
+  > 📝 **Comments:**   
+  > 🔗 [Link](https://doi.org/10.1109/ICCV.2019.00142)
+
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
