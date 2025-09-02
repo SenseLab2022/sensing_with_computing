@@ -67,6 +67,11 @@ This is a paper list of **Sensing_with_Computing** research.
   > 🔗 [Link](https://ieeexplore.ieee.org/abstract/document/11141506)
 
 
+- **AI-capable Computational CMOS Image Sensors: from Concept to Trend** — *International Conference on Microelectronics (ICM), 2024* — A. Abubakar, B. Wang, A. Bermak  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1109/ICM63406.2024.10815831)
+
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
@@ -187,6 +192,10 @@ This is a paper list of **Sensing_with_Computing** research.
 - **[RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision]** — 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA), Seoul, Korea, pp. 255-266 — R. LiKamWa, Y. Hou, Y. Gao, M. Polansky and L. Zhong  
   > 📝 **Comments:**   
   > 🔗 [Link](https://doi.org/10.1109/ISCA.2016.31)
+
+- **A Pathway to Near Tissue Computing through Processing-in-CTIA Pixels for Biomedical Applications** — *arXiv preprint, 2025* — Zihan Yin, Subhradip Chakraborty, Ankur Singh, Chengwei Zhou, Gourav Datta, Akhilesh Jaiswal  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://arxiv.org/abs/2503.16798)
 
 
 - **[Paper Name]** — Publisher — Author  
@@ -373,6 +382,9 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**   
   > 🔗 [Link](https://doi.org/10.1109/JSEN.2025.3577057)
 
+- **Multimodal In-Sensor Computing System Using Integrated Silicon Photonic Convolutional Processor** — *Advanced Science, 2024* — Z. Xiao, Z. Ren, Y. Zhuge, Z. Zhang, J. Zhou, S. Xu, C. Xu, B. Dong, C. Lee  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1002/advs.202408597)
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
