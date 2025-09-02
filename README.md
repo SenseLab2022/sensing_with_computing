@@ -203,6 +203,22 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**  
   > 🔗 [Link](https://iopscience.iop.org/article/10.1088/2634-4386/adef76/meta)
 
+- **[Near-Sensor Neuromorphic Computing System Based on a Thermopile Infrared Detector and a Memristor for Encrypted Visual Information Transmission]** — Nano Letters — Zheng Wang, Jinhao Zhang, Zhenyu Zhang, Jialin Meng, Cheng Lei, Tianyu Wang  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01843)
+
+- **[Near-Sensor Edge Computing System Enabled by a CMOS Compatible Photonic Integrated Circuit Platform Using Bilayer AlN/Si Waveguides]** — Nano-Micro Letters — Z. Ren, Z. Zhang, Y. Zhuge, et al.  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1007/s40820-025-01743-y)
+
+- **[The Design of a Computer Vision Sensor Based on a Low-Power Edge Detection Circuit]** — Sensors 2025, 25, 3219 — S. Lee, Y.C. Yun, S.M. Heu, K.H. Lee, S.J. Lee, K. Lee, J. Moon, H. Lim, T. Jang, M. Song, et al.  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.3390/s25103219)
+
+- **[AJPEG: A 26.4-pJ/pixel, 252-fps, 128×128 Image Sensor with an In-Sensor Analog DCT Processor for Data Compression]** — 2025 IEEE Custom Integrated Circuits Conference (CICC) — R. Wan, Y. Xu, D.-W. Jee, M. Seok  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1109/CICC63670.2025.10982958)
+
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
