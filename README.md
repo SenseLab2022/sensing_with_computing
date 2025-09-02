@@ -197,6 +197,10 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**  
   > 🔗 [Link](https://arxiv.org/abs/2503.16798)
 
+- **[A retina-inspired pathway to real-time motion prediction inside image sensors for extreme-edge intelligence]** — Neuromorphic Computing and Engineering — Subhradip Chakraborty, Shay Snyder, Md Abdullah-Al Kaiser, Maryam Parsa, Gregory Schwartz, Akhilesh R Jaiswal  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://iopscience.iop.org/article/10.1088/2634-4386/adef76/meta)
+
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
@@ -385,6 +389,10 @@ This is a paper list of **Sensing_with_Computing** research.
 - **Multimodal In-Sensor Computing System Using Integrated Silicon Photonic Convolutional Processor** — *Advanced Science, 2024* — Z. Xiao, Z. Ren, Y. Zhuge, Z. Zhang, J. Zhou, S. Xu, C. Xu, B. Dong, C. Lee  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1002/advs.202408597)
+
+- **[On-chip kernel-based spatial filter for CMOS image sensor]** — Computers and Electrical Engineering, 2025 — B. M. L.-P. Vigil, W. Valenzuela, P. Zarkesh-Ha, M. Figueroa  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1016/j.compeleceng.2025.110218)
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
