@@ -397,6 +397,23 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1016/j.compeleceng.2025.110218)
 
+- **[SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision]** — arXiv — Weikai Lin, Tianrui Ma, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://arxiv.org/abs/2504.04535)
+
+- **[OASIS: Optimized Lightweight Autoencoder System for Distributed In-Sensor Computing]** — arXiv — Chengwei Zhou, Sreetama Sarkar, Yuming Li, Arnab Sanyal, Gourav Datta  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://arxiv.org/abs/2505.02256)
+
+- **[A Current-Mode Multiply-Accumulate Macro in Sensing-Computing Fusion System for Feature Extraction and Redundancy Reduction]** — IEEE Transactions on Circuits and Systems II: Express Briefs — X. Ren, X. Li, C. Xue, Y. He, G. Du  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1109/TCSII.2025.3543173)
+
+- **[Parallelizing Analog In-Sensor Visual Processing with Arrays of Gate-Tunable Silicon Photodetectors]** — Nature Communications — Z. Xiong, W. Liang, M. Zhang, et al.  
+  > 📝 **Comments:**  
+  > 🔗 [Link](https://doi.org/10.1038/s41467-025-60006-x)
+
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
