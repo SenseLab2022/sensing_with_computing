@@ -29,7 +29,7 @@ This is a paper list of **Sensing_with_Computing** research.
 ## 🔖 List of Papers
 
 ### 📑 Review 
-- [***Return to Directory***](#-table-of-contents)
+([***Return to Directory***](#-table-of-contents))
 
 - **[Near-sensor and in-sensor computing.]** — Nat Electron 3, 664–671 (2020). — Zhou, F., Chai, Y.  
   > 📝 **Comments:** Review from three views: low-level processing, high-level processing and integration techniques.  
@@ -87,7 +87,7 @@ This is a paper list of **Sensing_with_Computing** research.
 <br>
 
 #### 💡 Near-Sensor Computing 
-- [***Return to Directory***](#-table-of-contents)
+([***Return to Directory***](#-table-of-contents))
 
 <br>
 
@@ -217,8 +217,8 @@ This is a paper list of **Sensing_with_Computing** research.
 
 
 #### 💡 In-Sensor Computing
-- [***Return to Directory***](#-table-of-contents)
-- 
+([***Return to Directory***](#-table-of-contents))
+
 <br>
 
 - **[A 2.17μW@120fps Ultra-Low-Power Dual-Mode CMOS Image Sensor with Senputing Architecture]** — 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan, 2022, pp. 92-93. — Z. Li, H. Xu, Z. Liu, L. Luo, Q. Wei and F. Qiao  
@@ -406,7 +406,7 @@ This is a paper list of **Sensing_with_Computing** research.
 <br>
 
 #### 💡 Pre-Sensor Computing
-- [***Return to Directory***](#-table-of-contents)
+([***Return to Directory***](#-table-of-contents))
 <br>
 
 - **[All-analog photoelectronic chip for high-speed vision tasks]** — Nature 623, 48–57 (2023). — Chen, Y., Nazhamaiti, M., Xu, H. _et al._  
@@ -420,7 +420,7 @@ This is a paper list of **Sensing_with_Computing** research.
 <br>
 
 #### 💡 Algorithm
-- [***Return to Directory***](#-table-of-contents)
+([***Return to Directory***](#-table-of-contents))
 <br>
 
 - **[Combined frame- and event-based detection and tracking]** — 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, Canada, 2016, pp. 2511-2514. — H. Liu, D.P. Moeys, G. Das, D. Neil, S.-C. Liu, T. Delbrück  
