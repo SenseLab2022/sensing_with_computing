@@ -11,7 +11,7 @@
 
 This is a paper list of **Sensing_with_Computing** research.  
 
-![Figure of Sensing with Computing Paradigm]("Sensing with Computing Paradigm.png")
+![Figure of Sensing with Computing Paradigm](Paradigm.png)
 
 ---
 
