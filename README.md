@@ -11,8 +11,6 @@
 
 This is a paper list of **Sensing_with_Computing** research.  
 
-<img width="1744" height="557" alt="image" src="https://github.com/user-attachments/assets/966dfdec-18d7-47af-b549-be0c4df1f136" />
-
 
 ---
 
