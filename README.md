@@ -28,9 +28,9 @@ All references are listed ***in chronological order*** to reflect the historical
 
 <p align="justify">
   
-- [***Review***](#-review)
+- [***Review Paper***](#-review)
   
-- [***Research***](#-research)
+- [***Research Paper***](#-research)
   - [***Near-Sensor Computing***](#-near-sensor-computing)
   - [***In-Sensor Computing***](#-in-sensor-computing)
   - [***Pre-Sensor Computing***](#-pre-sensor-computing)
