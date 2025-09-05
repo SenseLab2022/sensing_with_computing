@@ -18,12 +18,17 @@ This is a paper list of **Sensing_with_Computing** research.
 ## 📚 Table of Contents
 
 - [***Review***](#-review)
+  
 - [***Research***](#-research)
   - [***Near-Sensor Computing***](#-near-sensor-computing)
   - [***In-Sensor Computing***](#-in-sensor-computing)
   - [***Pre-Sensor Computing***](#-pre-sensor-computing)
   - [***Algorithm***](#-algorithm)
 
+- [***Contributors***](#-contributors)
+
+ *Note:* References are organized ***chronologically*** and are not ranked by ***importance***.
+ 
 ---
 <br>
 
@@ -425,5 +430,14 @@ This is a paper list of **Sensing_with_Computing** research.
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
 
+---
+
+###  👥 Contributors：
+
+Fei Qiao (Tsinghua University; SenseLab), Yongtao Zhou (Xiamen University; SenseLab), Haijin Su (Beijing Jiaotong University; SenseLab), and the entire SenseLab team.
+
+
+
+([***Return to Directory***](#-table-of-contents))
 
 
