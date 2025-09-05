@@ -13,6 +13,8 @@ This is a paper list of **Sensing_with_Computing** research.
 
 ![Figure of Sensing with Computing Paradigm](Paradigm.png)
 
+ *Note:* References are organized ***chronologically*** and are not ranked by ***importance***.
+
 ---
 
 ## 📚 Table of Contents
@@ -26,8 +28,6 @@ This is a paper list of **Sensing_with_Computing** research.
   - [***Algorithm***](#-algorithm)
 
 - [***Contributors***](#-contributors)
-
- *Note:* References are organized ***chronologically*** and are not ranked by ***importance***.
  
 ---
 <br>
