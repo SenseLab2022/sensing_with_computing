@@ -9,11 +9,11 @@
 
 ## 📘 About
 
-This is a paper list of **Sensing_with_Computing** research.  
+This repository collects and organizes key references in the emerging field of Sensing with Computing, a paradigm that tightly fuses sensing and computation to overcome traditional interface bottlenecks. The goal is to provide researchers, students, and practitioners with an overview of important works spanning near-sensor, in-sensor, and pre-sensor computing architectures, as well as highly-relevant algorithmic and co-design methodologies.
 
 ![Figure of Sensing with Computing Paradigm](Paradigm.png)
 
- *Note:* References are organized ***chronologically*** and are not ranked by ***importance***.
+All references are listed ***in chronological order*** to reflect the historical development of the field, and ***not by importance***. This collection is continuously updated and aims to serve as a useful resource for exploring the evolution and future directions of sensing-computing integration.  
 
 ---
 
