@@ -225,6 +225,11 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/CICC63670.2025.10982958)
 
+- **[Near-Sensor Analog Computing via Monolithic 3D Piezoelectric Sensor–FeFET for Tactile Sensing System]** — Adv. Funct. Mater., 2025. — W. Kim, S. Kim, J. Ha, et al.  
+  > 📝 **Comments:** Tactile sensing system enabled by monolithic 3D integration of piezoelectric sensor and FeFET for near-sensor analog computing  
+  > 🔗 [Link](https://doi.org/10.1002/adfm.202516545)
+
+
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
   > 🔗 [Link](https://example.com)
