@@ -229,6 +229,10 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:** Tactile sensing system enabled by monolithic 3D integration of piezoelectric sensor and FeFET for near-sensor analog computing  
   > 🔗 [Link](https://doi.org/10.1002/adfm.202516545)
 
+- **[Monolithic 3D Integration of Analog RRAM-Based Computing-in-Memory and Sensor for Energy-Efficient Near-Sensor Computing]** — Adv. Mater., 2024. — Y. Du, J. Tang, Y. Li, Y. Xi, Y. Li, J. Li, H. Huang, Q. Qin, Q. Zhang, B. Gao, N. Deng, H. Qian, H. Wu  
+  > 📝 **Comments:** Energy-efficient near-sensor computing enabled by monolithic 3D integration of analog RRAM-based CIM and sensor  
+  > 🔗 [Link](https://doi.org/10.1002/adma.202302658)
+
 
 - **[Paper Name]** — Publisher — Author  
   > 📝 **Comments:**  
