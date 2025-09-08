@@ -189,6 +189,10 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/TVLSI.2023.3299509)
 
+- **[Monolithic 3D Integration of Analog RRAM-Based Computing-in-Memory and Sensor for Energy-Efficient Near-Sensor Computing]** — Adv. Mater., 2024. — Y. Du, J. Tang, Y. Li, Y. Xi, Y. Li, J. Li, H. Huang, Q. Qin, Q. Zhang, B. Gao, N. Deng, H. Qian, H. Wu  
+  > 📝 **Comments:** Energy-efficient near-sensor computing enabled by monolithic 3D integration of analog RRAM-based CIM and sensor  
+  > 🔗 [Link](https://doi.org/10.1002/adma.202302658)
+
 - **[MANTIS: A Mixed-Signal Near-Sensor Convolutional Imager SoC Using Charge-Domain 4b-Weighted 5-to-84-TOPS/W MAC Operations for Feature Extraction and Region-of-Interest Detection]** — IEEE Journal of Solid-State Circuits, vol. 60, no. 3, pp. 934-948, Mar. 2025 — M. Lefebvre and D. Bol  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/JSSC.2024.3484766)
@@ -213,11 +217,11 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:**  
   > 🔗 [Link](https://iopscience.iop.org/article/10.1088/2634-4386/adef76/meta)
 
-- **[Near-Sensor Neuromorphic Computing System Based on a Thermopile Infrared Detector and a Memristor for Encrypted Visual Information Transmission]** — Nano Letters — Zheng Wang, Jinhao Zhang, Zhenyu Zhang, Jialin Meng, Cheng Lei, Tianyu Wang  
+- **[Near-Sensor Neuromorphic Computing System Based on a Thermopile Infrared Detector and a Memristor for Encrypted Visual Information Transmission]** — Nano Letters, 2025 — Zheng Wang, Jinhao Zhang, Zhenyu Zhang, Jialin Meng, Cheng Lei, Tianyu Wang  
   > 📝 **Comments:**  
   > 🔗 [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01843)
 
-- **[Near-Sensor Edge Computing System Enabled by a CMOS Compatible Photonic Integrated Circuit Platform Using Bilayer AlN/Si Waveguides]** — Nano-Micro Letters — Z. Ren, Z. Zhang, Y. Zhuge, _et al._  
+- **[Near-Sensor Edge Computing System Enabled by a CMOS Compatible Photonic Integrated Circuit Platform Using Bilayer AlN/Si Waveguides]** — Nano-Micro Lett. 17, 261 (2025) — Z. Ren, Z. Zhang, Y. Zhuge, _et al._  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1007/s40820-025-01743-y)
 
@@ -228,10 +232,6 @@ All references are listed ***in chronological order*** to reflect the historical
 - **[Near-Sensor Analog Computing via Monolithic 3D Piezoelectric Sensor–FeFET for Tactile Sensing System]** — Adv. Funct. Mater., 2025. — W. Kim, S. Kim, J. Ha, et al.  
   > 📝 **Comments:** Tactile sensing system enabled by monolithic 3D integration of piezoelectric sensor and FeFET for near-sensor analog computing  
   > 🔗 [Link](https://doi.org/10.1002/adfm.202516545)
-
-- **[Monolithic 3D Integration of Analog RRAM-Based Computing-in-Memory and Sensor for Energy-Efficient Near-Sensor Computing]** — Adv. Mater., 2024. — Y. Du, J. Tang, Y. Li, Y. Xi, Y. Li, J. Li, H. Huang, Q. Qin, Q. Zhang, B. Gao, N. Deng, H. Qian, H. Wu  
-  > 📝 **Comments:** Energy-efficient near-sensor computing enabled by monolithic 3D integration of analog RRAM-based CIM and sensor  
-  > 🔗 [Link](https://doi.org/10.1002/adma.202302658)
 
 
 - **[Paper Name]** — Publisher — Author  
@@ -316,7 +316,7 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/ISCAS45731.2020.9180435)
 
-- **[A 4.6-μm, 127-dB Dynamic Range, Ultra-Low Power Stacked Digital Pixel Sensor With Overlapped Triple Quantization]** — IEEE Transactions on Electron Devices — R. Ikeno _et al._ (2022)  
+- **[A 4.6-μm, 127-dB Dynamic Range, Ultra-Low Power Stacked Digital Pixel Sensor With Overlapped Triple Quantization]** — IEEE Transactions on Electron Devices, vol. 69, no. 6, pp. 2943-2950, June 2022 — R. Ikeno _et al._ (2022)  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/TED.2021.3121352)
 
@@ -324,11 +324,11 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:** Novel PIS architecture integrating sensing and MAC operations  
   > 🔗 [Link](https://ieeexplore.ieee.org/document/9164893)
 
-- **[A 0.5-V Real-Time Computational CMOS Image Sensor With Programmable Kernel for Feature Extraction]** — IEEE Journal of Solid-State Circuits — T.-H. Hsu _et al._ (May 2021)  
+- **[A 0.5-V Real-Time Computational CMOS Image Sensor With Programmable Kernel for Feature Extraction]** — IEEE Journal of Solid-State Circuits 2021— T.-H. Hsu _et al._ (May 2021)  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/JSSC.2020.3034192)
 
-- **[A 0.8 V Multimode Vision Sensor for Motion and Saliency Detection With Ping-Pong PWM Pixel]** — IEEE Journal of Solid-State Circuits — T.-H. Hsu _et al._ (Aug. 2021)  
+- **[A 0.8 V Multimode Vision Sensor for Motion and Saliency Detection With Ping-Pong PWM Pixel]** — IEEE Journal of Solid-State Circuits 2021— T.-H. Hsu _et al._ (Aug. 2021)  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/JSSC.2021.3075746)
 
@@ -352,7 +352,7 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/ISSCC42613.2021.9365771)
 
-- **[A 30-fps 192×192 CMOS Image Sensor With Per-Frame Spatial-Temporal Coded Exposure for Compressive Focal-Stack Depth Sensing]** — IEEE Journal of Solid-State Circuits — Y. Luo, S. Mirabbasi (Jun. 2022)  
+- **[A 30-fps 192×192 CMOS Image Sensor With Per-Frame Spatial-Temporal Coded Exposure for Compressive Focal-Stack Depth Sensing]** — IEEE Journal of Solid-State Circuits 2022 — Y. Luo, S. Mirabbasi (Jun. 2022)  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1109/JSSC.2022.3149916)
 
@@ -360,7 +360,7 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:** Sensor level; CMOS Image Sensor (CIS) chip based on Senputing architecture  
   > 🔗 [Link](https://ieeexplore.ieee.org/document/9712591)
 
-- **[Senputing: An Ultra-Low-Power Always-On Vision Perception Chip Featuring the Deep Fusion of Sensing and Computing]** — IEEE Journal of Solid-State Circuits — H. Xu, F. Qiao _et al._ (Jan. 2022)  
+- **[Senputing: An Ultra-Low-Power Always-On Vision Perception Chip Featuring the Deep Fusion of Sensing and Computing]** — IEEE Journal of Solid-State Circuits 2022— H. Xu, F. Qiao _et al._ (Jan. 2022)  
   > 📝 **Comments:** Sensor level; Novel processing-in-sensor design for always-on hierarchical vision perception  
   > 🔗 [Link](https://ieeexplore.ieee.org/document/9464962)
 
@@ -372,7 +372,7 @@ All references are listed ***in chronological order*** to reflect the historical
   > 📝 **Comments:** MoS₂ phototransistor; Motion detection  
   > 🔗 [Link](https://www.nature.com/articles/s41565-023-01379-2)
 
-- **[All-analog photoelectronic chip for high-speed vision tasks]** — Nature — Y. Chen, M. Nazhamaiti, H. Xu _et al._ (2023)  
+- **[All-analog photoelectronic chip for high-speed vision tasks]** — Nature 623, 48–57 (2023) — Y. Chen, M. Nazhamaiti, H. Xu _et al._ (2023)  
   > 📝 **Comments:**  
   > 🔗 [Link](https://doi.org/10.1038/s41586-023-06558-8)
 
